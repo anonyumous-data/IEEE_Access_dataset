@@ -1,0 +1,187 @@
+ESTATÍSTICAS DE GPU - MODO NAIVE
+Modelo: lfm2.5-thinking-1.2b
+Total de prompts: 30
+Tempo total de execução: 280.76s
+Tempo médio por prompt: 9.34s
+====================================================================================================
+
+
+Prompt 1: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 16.67s
+  GPU 0:
+    Utilização: 89.0% (max: 89.0%)
+    Memória: 7239.3 MB (max: 7239.3 MB)
+
+Prompt 2: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.62s
+  GPU 0:
+    Utilização: 91.0% (max: 91.0%)
+    Memória: 7398.6 MB (max: 7398.6 MB)
+
+Prompt 3: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 5.57s
+  GPU 0:
+    Utilização: 99.0% (max: 99.0%)
+    Memória: 7434.5 MB (max: 7434.5 MB)
+
+Prompt 4: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.48s
+  GPU 0:
+    Utilização: 91.0% (max: 91.0%)
+    Memória: 7496.0 MB (max: 7496.0 MB)
+
+Prompt 5: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.80s
+  GPU 0:
+    Utilização: 97.0% (max: 97.0%)
+    Memória: 7538.1 MB (max: 7538.1 MB)
+
+Prompt 6: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 11.17s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7545.1 MB (max: 7545.1 MB)
+
+Prompt 7: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 10.53s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7497.0 MB (max: 7497.0 MB)
+
+Prompt 8: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.17s
+  GPU 0:
+    Utilização: 92.0% (max: 92.0%)
+    Memória: 7479.2 MB (max: 7479.2 MB)
+
+Prompt 9: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.72s
+  GPU 0:
+    Utilização: 96.0% (max: 96.0%)
+    Memória: 7444.2 MB (max: 7444.2 MB)
+
+Prompt 10: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 10.24s
+  GPU 0:
+    Utilização: 93.0% (max: 93.0%)
+    Memória: 7488.2 MB (max: 7488.2 MB)
+
+Prompt 11: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.38s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7481.9 MB (max: 7481.9 MB)
+
+Prompt 12: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.78s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7493.8 MB (max: 7493.8 MB)
+
+Prompt 13: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 7.86s
+  GPU 0:
+    Utilização: 87.0% (max: 87.0%)
+    Memória: 7503.5 MB (max: 7503.5 MB)
+
+Prompt 14: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.91s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7543.4 MB (max: 7543.4 MB)
+
+Prompt 15: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 11.31s
+  GPU 0:
+    Utilização: 85.0% (max: 85.0%)
+    Memória: 7531.3 MB (max: 7531.3 MB)
+
+Prompt 16: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 7.16s
+  GPU 0:
+    Utilização: 96.0% (max: 96.0%)
+    Memória: 7498.1 MB (max: 7498.1 MB)
+
+Prompt 17: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 6.41s
+  GPU 0:
+    Utilização: 94.0% (max: 94.0%)
+    Memória: 7465.1 MB (max: 7465.1 MB)
+
+Prompt 18: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 6.65s
+  GPU 0:
+    Utilização: 94.0% (max: 94.0%)
+    Memória: 7428.9 MB (max: 7428.9 MB)
+
+Prompt 19: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 10.65s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7428.7 MB (max: 7428.7 MB)
+
+Prompt 20: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.49s
+  GPU 0:
+    Utilização: 91.0% (max: 91.0%)
+    Memória: 7459.6 MB (max: 7459.6 MB)
+
+Prompt 21: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.22s
+  GPU 0:
+    Utilização: 93.0% (max: 93.0%)
+    Memória: 7509.1 MB (max: 7509.1 MB)
+
+Prompt 22: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 12.77s
+  GPU 0:
+    Utilização: 88.0% (max: 88.0%)
+    Memória: 7537.6 MB (max: 7537.6 MB)
+
+Prompt 23: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 11.83s
+  GPU 0:
+    Utilização: 91.0% (max: 91.0%)
+    Memória: 7516.6 MB (max: 7516.6 MB)
+
+Prompt 24: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 9.72s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7491.1 MB (max: 7491.1 MB)
+
+Prompt 25: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.04s
+  GPU 0:
+    Utilização: 96.0% (max: 96.0%)
+    Memória: 7486.3 MB (max: 7486.3 MB)
+
+Prompt 26: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 7.88s
+  GPU 0:
+    Utilização: 97.0% (max: 97.0%)
+    Memória: 7469.9 MB (max: 7469.9 MB)
+
+Prompt 27: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.89s
+  GPU 0:
+    Utilização: 95.0% (max: 95.0%)
+    Memória: 7445.7 MB (max: 7445.7 MB)
+
+Prompt 28: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 7.27s
+  GPU 0:
+    Utilização: 93.0% (max: 93.0%)
+    Memória: 7473.3 MB (max: 7473.3 MB)
+
+Prompt 29: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 8.96s
+  GPU 0:
+    Utilização: 91.0% (max: 91.0%)
+    Memória: 7472.6 MB (max: 7472.6 MB)
+
+Prompt 30: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 10.00s
+  GPU 0:
+    Utilização: 90.0% (max: 90.0%)
+    Memória: 7502.8 MB (max: 7502.8 MB)

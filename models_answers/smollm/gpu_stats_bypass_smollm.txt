@@ -1,0 +1,268 @@
+ESTATÍSTICAS DE GPU - MODO BYPASS
+Modelo: lfm2.5-thinking-1.2b
+Total de prompts: 30
+Tempo total de execução: 73.26s
+Tempo médio por prompt: 2.42s
+====================================================================================================
+
+
+Prompt 2: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.48s
+  GPU 0:
+    Utilização: 24.0% (max: 24.0%)
+    Memória: 6236.2 MB (max: 6236.2 MB)
+    Temperatura: 49.0°C (max: 49.0°C)
+    Potência: 159.3 W (max: 159.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 3: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 4.03s
+  GPU 0:
+    Utilização: 89.0% (max: 89.0%)
+    Memória: 6230.9 MB (max: 6230.9 MB)
+    Temperatura: 54.0°C (max: 54.0°C)
+    Potência: 162.3 W (max: 162.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 4: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 6.66s
+  GPU 0:
+    Utilização: 89.0% (max: 89.0%)
+    Memória: 6286.0 MB (max: 6286.0 MB)
+    Temperatura: 56.0°C (max: 56.0°C)
+    Potência: 164.3 W (max: 164.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 5: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.72s
+  GPU 0:
+    Utilização: 13.0% (max: 13.0%)
+    Memória: 6298.9 MB (max: 6298.9 MB)
+    Temperatura: 54.0°C (max: 54.0°C)
+    Potência: 134.6 W (max: 134.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 6: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.95s
+  GPU 0:
+    Utilização: 29.0% (max: 29.0%)
+    Memória: 6304.7 MB (max: 6304.7 MB)
+    Temperatura: 55.0°C (max: 55.0°C)
+    Potência: 162.9 W (max: 162.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 7: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.51s
+  GPU 0:
+    Utilização: 43.0% (max: 43.0%)
+    Memória: 6303.4 MB (max: 6303.4 MB)
+    Temperatura: 54.0°C (max: 54.0°C)
+    Potência: 160.3 W (max: 160.3 W)
+--------------------------------------------------------------------------------
+
+Prompt 8: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.55s
+  GPU 0:
+    Utilização: 2.0% (max: 2.0%)
+    Memória: 6286.7 MB (max: 6286.7 MB)
+    Temperatura: 52.0°C (max: 52.0°C)
+    Potência: 157.6 W (max: 157.6 W)
+--------------------------------------------------------------------------------
+
+Prompt 9: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.42s
+  GPU 0:
+    Utilização: 38.0% (max: 38.0%)
+    Memória: 6287.4 MB (max: 6287.4 MB)
+    Temperatura: 51.0°C (max: 51.0°C)
+    Potência: 80.1 W (max: 80.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 10: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 2.45s
+  GPU 0:
+    Utilização: 62.0% (max: 62.0%)
+    Memória: 6295.6 MB (max: 6295.6 MB)
+    Temperatura: 54.0°C (max: 54.0°C)
+    Potência: 162.0 W (max: 162.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 11: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 3.12s
+  GPU 0:
+    Utilização: 88.0% (max: 88.0%)
+    Memória: 6321.6 MB (max: 6321.6 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 165.1 W (max: 165.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 12: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 2.83s
+  GPU 0:
+    Utilização: 89.0% (max: 89.0%)
+    Memória: 6313.5 MB (max: 6313.5 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 159.0 W (max: 159.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 13: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.50s
+  GPU 0:
+    Utilização: 29.0% (max: 29.0%)
+    Memória: 6334.4 MB (max: 6334.4 MB)
+    Temperatura: 56.0°C (max: 56.0°C)
+    Potência: 166.2 W (max: 166.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 14: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.75s
+  GPU 0:
+    Utilização: 19.0% (max: 19.0%)
+    Memória: 6335.5 MB (max: 6335.5 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 163.4 W (max: 163.4 W)
+--------------------------------------------------------------------------------
+
+Prompt 15: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.12s
+  GPU 0:
+    Utilização: 48.0% (max: 48.0%)
+    Memória: 6337.3 MB (max: 6337.3 MB)
+    Temperatura: 53.0°C (max: 53.0°C)
+    Potência: 62.8 W (max: 62.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 16: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.57s
+  GPU 0:
+    Utilização: 30.0% (max: 30.0%)
+    Memória: 6329.1 MB (max: 6329.1 MB)
+    Temperatura: 56.0°C (max: 56.0°C)
+    Potência: 161.1 W (max: 161.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 17: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 3.10s
+  GPU 0:
+    Utilização: 89.0% (max: 89.0%)
+    Memória: 6336.3 MB (max: 6336.3 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 167.9 W (max: 167.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 18: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.91s
+  GPU 0:
+    Utilização: 59.0% (max: 59.0%)
+    Memória: 6331.4 MB (max: 6331.4 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 167.9 W (max: 167.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 19: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.83s
+  GPU 0:
+    Utilização: 71.0% (max: 71.0%)
+    Memória: 6335.9 MB (max: 6335.9 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 169.5 W (max: 169.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 20: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.59s
+  GPU 0:
+    Utilização: 2.0% (max: 2.0%)
+    Memória: 6350.2 MB (max: 6350.2 MB)
+    Temperatura: 56.0°C (max: 56.0°C)
+    Potência: 153.2 W (max: 153.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 21: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 2.26s
+  GPU 0:
+    Utilização: 39.0% (max: 39.0%)
+    Memória: 6349.4 MB (max: 6349.4 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 166.1 W (max: 166.1 W)
+--------------------------------------------------------------------------------
+
+Prompt 22: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.93s
+  GPU 0:
+    Utilização: 3.0% (max: 3.0%)
+    Memória: 6349.7 MB (max: 6349.7 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 152.8 W (max: 152.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 23: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 3.02s
+  GPU 0:
+    Utilização: 88.0% (max: 88.0%)
+    Memória: 6328.2 MB (max: 6328.2 MB)
+    Temperatura: 59.0°C (max: 59.0°C)
+    Potência: 163.2 W (max: 163.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 24: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.62s
+  GPU 0:
+    Utilização: 18.0% (max: 18.0%)
+    Memória: 6315.9 MB (max: 6315.9 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 165.7 W (max: 165.7 W)
+--------------------------------------------------------------------------------
+
+Prompt 25: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.66s
+  GPU 0:
+    Utilização: 52.0% (max: 52.0%)
+    Memória: 6307.4 MB (max: 6307.4 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 158.8 W (max: 158.8 W)
+--------------------------------------------------------------------------------
+
+Prompt 26: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.38s
+  GPU 0:
+    Utilização: 7.0% (max: 7.0%)
+    Memória: 6296.0 MB (max: 6296.0 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 161.9 W (max: 161.9 W)
+--------------------------------------------------------------------------------
+
+Prompt 27: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.66s
+  GPU 0:
+    Utilização: 53.0% (max: 53.0%)
+    Memória: 6286.9 MB (max: 6286.9 MB)
+    Temperatura: 58.0°C (max: 58.0°C)
+    Potência: 147.5 W (max: 147.5 W)
+--------------------------------------------------------------------------------
+
+Prompt 28: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 2.89s
+  GPU 0:
+    Utilização: 79.0% (max: 79.0%)
+    Memória: 6281.3 MB (max: 6281.3 MB)
+    Temperatura: 59.0°C (max: 59.0°C)
+    Potência: 170.2 W (max: 170.2 W)
+--------------------------------------------------------------------------------
+
+Prompt 29: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 1.52s
+  GPU 0:
+    Utilização: 5.0% (max: 5.0%)
+    Memória: 6297.0 MB (max: 6297.0 MB)
+    Temperatura: 57.0°C (max: 57.0°C)
+    Potência: 161.0 W (max: 161.0 W)
+--------------------------------------------------------------------------------
+
+Prompt 30: select one between A B C D or E to answer the following question, the answer must been in a json for
+Tempo de geração: 2.53s
+  GPU 0:
+    Utilização: 42.0% (max: 42.0%)
+    Memória: 6237.0 MB (max: 6237.0 MB)
+    Temperatura: 60.0°C (max: 60.0°C)
+    Potência: 159.9 W (max: 159.9 W)
+--------------------------------------------------------------------------------

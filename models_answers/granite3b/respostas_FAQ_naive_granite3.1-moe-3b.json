@@ -1,0 +1,152 @@
+[
+  {
+    "PROMPT": 1,
+    "chosen_letter": "C",
+    "explanation": "According to current guidelines such as the GINA (Global Initiative for Asthma), severe asthma is defined by persistent airflow limitation due to remodeling of the airway walls or limited lung development in childhood, while uncontrolled asthma refers to symptoms and exacerbations despite optimized treatment use. The key difference between these conditions lies in their persistency; severe asthma may persist with ongoing symptoms and increased risk even after receiving adequate, long-term treatment."
+  },
+  {
+    "PROMPT": 2,
+    "chosen_letter": "C",
+    "explanation": "In GINA 2025, the combination of formoterol + inhaled corticosteroid is recommended as both maintenance and relief medication for mild to moderate asthma, reinforcing the use of this combination treatment. The updates in GINA 2025 do not support alternatives A, B, or D."
+  },
+  {
+    "PROMPT": 3,
+    "chosen_letter": "A",
+    "explanation": "Occupational asthma is caused by specific workplace inhalants that cause a type-2 immune response. The intensity of exposure, not the level itself, plays a role in developing occupational asthma. This means that even low levels of exposure to these agents can lead to symptoms and exacerbations if an individual becomes sensitized."
+  },
+  {
+    "PROMPT": 4,
+    "chosen_letter": "B",
+    "explanation": "Asthma with a Th2-high phenotype was first based on atopic predisposition in combination with any of the following biomarkers for Th2 immune activation: serum immunoglobulin E (IgE) ≥100 IU/mL, blood eosinophil count ≥300/μL and fractional exhaled nitric oxide (FeNO) >50 ppb. Therefore, statement B is incorrect because it provides an accurate description of the Th2-high phenotype."
+  },
+  {
+    "PROMPT": 5,
+    "chosen_letter": "D",
+    "explanation": "The statement (D) - One of the possible causes of severe bronchospasm may be mediated by decreased local nitric oxide levels, which is frequently documented - accurately describes asthma severity. Decreased local nitric oxide levels can contribute to severe bronchospasm in asthma patients."
+  },
+  {
+    "PROMPT": 6,
+    "chosen_letter": "B",
+    "explanation": "The patient is experiencing persistent symptoms such as shortness of breath at rest and minimal exertion, which suggest a severe asthma exacerbation. Given the history of ICU admission one year ago due to an asthma attack, it's crucial to refer her for treatment in the emergency room (option B) to ensure proper administration of rescue medications and ongoing care."
+  },
+  {
+    "PROMPT": 7,
+    "chosen_letter": "B",
+    "explanation": "The patient's symptoms are occurring 2-3 times a week during daytime hours, indicating an asthma control issue that may interfere with daily activities. Although he is able to perform his usual physical activities without limitations, the frequency of exacerbations suggests uncontrolled asthma."
+  },
+  {
+    "PROMPT": 8,
+    "chosen_letter": "D",
+    "explanation": "In adult patients with asthma initiated or worsened during work, the diagnosis of work-related asthma should be considered."
+  },
+  {
+    "PROMPT": 9,
+    "chosen_letter": "A",
+    "explanation": "Spirometry, including peak expiratory flow (PEF), is an essential tool for both monitoring and initial diagnosis of asthma. While it can provide valuable information about lung function, the reversibility test with bronchodilators is used to determine if the airflow limitation in asthma is truly irreversible or due to other factors such as structural changes or inflammation."
+  },
+  {
+    "PROMPT": 10,
+    "chosen_letter": "d",
+    "explanation": "The diagnosis of 'severe asthma' for a 44-year-old male patient who reports symptoms of cough at night, dyspnea on exertion, rhinorrhea, and diffuse wheezing while using inhaled formoterol and budesonide is consistent with his reported exposure to allergens (cats, dogs, mold, dust) and the presence of untreated comorbidities (chronic sinusitis). Given that he denies asthma in childhood, this could indicate a potential transition from reversible to irreversible airway obstruction. However, without further lung function tests or other diagnostic confirmation, it is difficult to definitively classify his current condition as severe asthma. The presence of untreated comorbidities and allergens suggests that these factors may contribute to the severity of his symptoms."
+  },
+  {
+    "PROMPT": 11,
+    "chosen_letter": "C",
+    "explanation": "The patient's symptoms of cough, dyspnea on exertion, and rhinorrhea with diffuse wheezing, along with the use of inhaled formoterol and budesonide 1x/day, suggest a diagnosis of chronic obstructive pulmonary disease (COPD). Although he denies asthma history, his symptoms align more closely with COPD. The patient's past smoking history, home environment with cats and dogs, family history of asthma and other respiratory conditions, including mother, sister, paternal uncles, grandmother, and cousins with asthma, further support this diagnosis. Although the patient is a former smoker for 10 years (20 pack-years), there are no specific symptoms indicating active smoking."
+  },
+  {
+    "PROMPT": 12,
+    "chosen_letter": "C",
+    "explanation": "In asthma, bronchial wall thickening is not always present in the acute phase of inflammation. It may indicate a greater risk of airway remodeling. This type of thickening is usually seen in more advanced phases of the disease and is often associated with chronic obstructive pulmonary disease (COPD). However, it can be found even in mild cases. The bronchi are thickened by the combination of edema and a reduction in the amount of smooth muscle and in the size of mucous glands."
+  },
+  {
+    "PROMPT": 13,
+    "chosen_letter": "a",
+    "explanation": "This patient has a diagnosis of severe asthma and blood eosinophilia >1000/mm3, which indicates Type 2 inflammation. The presence of elevated FeNO (>50 ppb) also supports this diagnosis."
+  },
+  {
+    "PROMPT": 14,
+    "chosen_letter": "a",
+    "explanation": "Childhood-onset asthma and clinical history suggesting allergen-induced symptoms (predictor: (1)) are associated with anti-IgE therapies (omalizumab). Blood eosinophilia, adult-onset asthma, and nasal polyps (predictor: (2)) are potential predictors of good response to benralizumab. Furthermore, elevated FeNO is another predictor associated with dupilumab and tezepelumab."
+  },
+  {
+    "PROMPT": 15,
+    "chosen_letter": "A",
+    "explanation": "The statement (I) about using procalcitonin for reducing unnecessary antibiotic use in community-acquired pneumonia is correct, as it helps differentiate bacterial from viral infections. In respiratory tract infections, the pathophysiological spectra can indeed be diverse, including viral, bacterial, and polymicrobial infections. Procalcitonin assays can aid clinicians in distinguishing between these by providing a marker of bacterial load that differs between them. This biomarker helps reduce the use of antibiotics where they are not needed, as it is more indicative of bacterial infections than viral ones. Statement (II) about acute bronchitis in patients without COPD, persistent fever and tachycardia/systemic manifestations being the gold standard for empirical antibiotic use is not entirely correct. While these factors are important indicators of potential pneumonia, they do not automatically rule out viral causes or other atypical presentations of bronchitis (e.g., croup in children). Respiratory viral infections can indeed cause exacerbation of chronic diseases like asthma and COPD, even without secondary bacterial superinfection. This is especially relevant for conditions such as aspirin sensitivity where viral infections may trigger an asthmatic attack or a decline in lung function. Thus, only statements (I) and (III) present the correct information on respiratory tract infections."
+  },
+  {
+    "PROMPT": 16,
+    "chosen_letter": "A",
+    "explanation": "Regular use of inhaled corticosteroids (ICS) is crucial for managing childhood asthma by reducing inflammation and preventing exacerbations. ICS therapy decreases airway responsiveness, improves lung function, reduces the frequency and severity of symptoms, and decreases hospitalizations. A meta-analysis in The Journal of Allergy and Clinical Immunology (2014) supports this finding with a significant reduction in exacerbations by 40% when using daily ICS compared to placebo, even in children younger than 6 years old."
+  },
+  {
+    "PROMPT": 17,
+    "chosen_letter": "E",
+    "explanation": "Statement 1 is true as spirometry, BHR tests, and inflammation measurements aid in the diagnosis of asthma in children. Statement 2 is also accurate as routine BD use helps confirm or rule out asthma diagnoses. Statements 3 and 4 are relevant to distinguish between mild, moderate, and severe attacks."
+  },
+  {
+    "PROMPT": 18,
+    "chosen_letter": "C",
+    "explanation": "The Global Strategy for Asthma Management and Prevention (GINA) recommends considering the add-on therapy with tezepelumab in patients with exacerbations and/or poor symptom control despite taking at least high-dose ICS-LABA, and who have allergic or eosinophilic biomarkers or need maintenance OCS. Tezepelumab is a Type 2-targeted biologic therapy for severe asthma."
+  },
+  {
+    "PROMPT": 19,
+    "chosen_letter": "B",
+    "explanation": "The patient's symptoms are frequent (2x/week), indicating a mild to moderate asthma severity according to GINA guidelines for adults and adolescents, released in 2023. This matches the recommendation of Track 1 as-needed SABA plus ICS-formoterol regimen.\n\nBudesonide/formoterol combination is included in the World Health Organization (WHO) essential medicines list and has been shown to significantly reduce the risk of severe exacerbations by 65% compared with salbutamol alone, while also reducing the need for oral corticosteroids. This approach avoids the risks associated with SABA-only treatment."
+  },
+  {
+    "PROMPT": 20,
+    "chosen_letter": "C",
+    "explanation": "The preferred treatment for asthma control and rescue, in patients > 12 years of age, according to the Global Initiative for Asthma (GINA – 2021), is a moderate dose of inhaled corticosteroid + Formoterol for control and low dose of inhaled corticosteroid + Formoterol for relief. This aligns with choice C: Moderate dose of inhaled corticosteroid + Formoterol for control and low dose of inhaled corticosteroid + Formoterol for relief."
+  },
+  {
+    "PROMPT": 21,
+    "chosen_letter": "A",
+    "explanation": "Biologics, such as mepolizumab and benralizumab, are indicated for eosinophilic asthma. They act by blocking the action of interleukin-5 (IL-5) which is crucial in the recruitment and proliferation of eosinophils. Eosinophilia, or elevated blood eosinophil count, is a key biomarker for this phenotype. The given options are not predictors of good response to Anti-IL5/Anti-IL5R medications."
+  },
+  {
+    "PROMPT": 22,
+    "chosen_letter": "B",
+    "explanation": "The T2-low endotype corresponds to most cases of severe asthma. This endotype is characterized by high levels of Th2 cytokines such as IL-4 and IL-13, which play a crucial role in the inflammation process leading to severe asthma."
+  },
+  {
+    "PROMPT": 23,
+    "chosen_letter": "B",
+    "explanation": "While serial measurement of peak expiratory flow on spirometry is not entirely useless for diagnosing occupational asthma, it is less specific compared to the bronchial provocation test. The bronchial provocation test provides a more definitive diagnosis by demonstrating airway hyperresponsiveness due to exposure to workplace irritants."
+  },
+  {
+    "PROMPT": 24,
+    "chosen_letter": "C",
+    "explanation": "Among the differential diagnoses of asthma in patients aged 12 to 39 years, we should consider Cystic Fibrosis and Alpha 1 Antitrypsin Deficiency. These conditions may present with respiratory symptoms similar to those seen in asthmatic individuals but have distinct clinical features that differentiate them from asthma."
+  },
+  {
+    "PROMPT": 25,
+    "chosen_letter": "b",
+    "explanation": "The main criteria indicating a favorable response to inhaled corticosteroid therapy in combination with two bronchodilators (LABA+LAMA) in Chronic Obstructive Pulmonary Disease (COPD) are eosinophils < 100 cells/L, asthma, and two moderate or one severe attack in the previous year. This is based on evidence showing that these criteria support a good response to bronchodilator therapy and reduce exacerbations."
+  },
+  {
+    "PROMPT": 26,
+    "chosen_letter": "b",
+    "explanation": "The correct answer is 'b' as it describes the symptoms that increase the probability of diagnosing asthma in adults. The alternatives given are incorrect because they do not apply to all adults with suspected or confirmed asthma."
+  },
+  {
+    "PROMPT": 27,
+    "chosen_letter": "A",
+    "explanation": "The patient has already been on maintenance treatment with formoterol/budesonide 12/400 mcg, tiotropium 5 mcg daily, salbutamol 2 puffs every 12 hours, montelukast sodium 10 mg once daily, and nasal budesonide 100 mcg every twelve hours. The patient has experienced frequent asthma exacerbations requiring systemic corticosteroids and a low-dose controller therapy regimen (formoterol/budesonide 12/400 mcg, tiotropium 5 mcg daily) for the past two years. Given these details, maintaining the current medication regimen seems reasonable as it has been effective in controlling symptoms and reducing hospitalizations. Adding omalizumab (alternative A) could potentially reduce asthma exacerbations but may not be necessary if controlled with existing medications."
+  },
+  {
+    "PROMPT": 28,
+    "chosen_letter": "A",
+    "explanation": "Salmeterol is a short-acting beta 2-agonist bronchodilator. Glycopyrronium bromide is indeed a short-acting antimuscarinic bronchodilator, but it's not classified as a long-acting one. Umeclidinium is also a long-acting beta 2-agonist bronchodilator. Indacaterol is a long-acting antimuscarinic bronchodilator, which aligns with the correct sequence."
+  },
+  {
+    "PROMPT": 29,
+    "chosen_letter": "D",
+    "explanation": "\n  The correct statements are:\n  - Statement I is generally true for asthma diagnosis using spirometry or other lung function tests. A positive bronchodilator test (as demonstrated by an increase in FEV1 of at least 200 ml and at least 7% of predicted) confirms the respiratory symptoms and supports asthma diagnosis.\n  - Statement II is correct as environmental control measures are crucial for managing asthma, especially in high-risk populations or during exacerbations."
+  },
+  {
+    "PROMPT": 30,
+    "chosen_letter": "E",
+    "explanation": "The statements provided have a mix of fact and speculation regarding biologics in severe asthma. The correct answer is E) as it includes all three statements mentioned."
+  }
+]

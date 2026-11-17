@@ -1,0 +1,2 @@
+timestamp,elapsed_time(s),gpu_id,gpu_name,utilization_gpu(%),utilization_memory(%),memory_used(MB),memory_total(MB),temperature(C),power_draw(W)
+2026-10-09 19:46:49.519,0.000,0,NVIDIA GeForce RTX 2070,100,42,7360.44,8192.00,64,142.86

@@ -1,0 +1,219 @@
+[
+  {
+    "chosen_letter": "B",
+    "explanation": "",
+    "PROMPT": 1
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "The updated GINA strategy report (GINA 2025) recommends the isolated use of SABA, not just for mild asthma but for all patients with persistent asthma. This means it is no longer recommended to keep a patient on ICS and SABA indefinitely as they would have an inactive formoterol reliever.",
+    "QUESTION 21": "Regarding the updates in GINA 2025 for asthma management, select one between A B C D or E to answer the question.",
+    "PROMPT": 2
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The benefit of reducing the level of exposure is equivalent to complete removal from exposure to the causative agent.",
+    "QUESTION": 19,
+    "DETAIL": "While FeNO has a well-established role in the diagnosis of OA and lower levels of exposure are associated with improved asthma control (Evidence A), it does not necessarily mean that reducing the level of exposure is equivalent to complete removal from exposure. Moreover, even low levels of exposure can trigger severe bronchospasm in some individuals.",
+    "PROMPT": 3
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "T2-low asthma is characterized by activation of non- T2 inflammatory pathways, with symptom onset in adulthood, and is often associated with obesity, cigarette smoke exposure, lower bronchodilator reversibility. It does not have a direct relationship with changes in lung structure present in elderly patients, such as airway narrowing, reduced lung compliance or alveolar dilation.",
+    "QUESTION 29": "Asthma is a noncommunicable respiratory disease that affects about 350 million people worldwide. Regarding the endotypes and phenotypes of asthma, it is INCORRECT to state that: A) Asthma with a Th2-high phenotype was first based on atopic predisposition in combination with any of the following biomarkers for Th2 immune activation: serum immunoglobulin E (IgE) ≥100 IU/mL, blood eosinophil count ≥300/μL and B) T2 immune responses include IgE- and allergen-mediated hypersensitivity, chemotaxis of mast cells, eosinophils and basophils, and remodeling of the airway epithelium.",
+    "PROMPT": 4
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Greater airway thickness has no relationship with asthma severity, as it is a universal finding due to inflammatory attacks.",
+    "answer": [
+      {
+        "item": "A",
+        "description": "Select the correct statement. A significant proportion of asthma heritability is related to atopy."
+      },
+      {
+        "item": "B",
+        "description": "The inflammatory infiltrate is basically composed of neutrophils. The infiltrate of eosinophils and mast cells is seen in more severe disease.",
+        "answer": [
+          "C"
+        ]
+      },
+      {
+        "item": "D",
+        "description": "One of the possible causes of severe bronchospasm may be mediated by decreased local nitric oxide levels, which is frequently documented.",
+        "answer": [
+          "E"
+        ]
+      }
+    ],
+    "PROMPT": 5
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "The patient's symptoms include shortness of breath at rest and on minimal exertion, which are more consistent with a respiratory issue rather than an acute asthma attack as previously experienced. The patient has been using salbutamol spray to alleviate her symptoms but now the problem is occurring even without using it. Formoterol and budesonide can help manage chronic inflammation in asthmatics, which may be contributing to this recurrence. Salbutamol spray as a rescue medication might not be effective enough in managing severe attacks when taken too frequently.",
+    "additional_information": {
+      "antibiotics": "No evidence of antibiotic use",
+      "spirometry": "Not mentioned, but could be recommended if the patient continues to have symptoms",
+      "oxygen therapy": "Potential inhaled short-acting beta 2-agonists (salbutamol) and oral glucocorticoids could be considered for acute attacks. Prednisone tapering is not mentioned, so a thorough assessment should be done to determine appropriate treatment."
+    },
+    "PROMPT": 6
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The patient has no limitations for daily activities as he needs relief medication 2x/week. This indicates that his asthma is not uncontrolled and does not interfere with his ability to perform normal tasks, making option B the correct answer.",
+    "37": {
+      "answer": "B",
+      "explanation": "The patient's asthma is controlled as it does not interfere with his daily activities. This means that despite having daytime symptoms 2x/week for the past 4 weeks, he still has control over his condition and can perform necessary tasks."
+    },
+    "PROMPT": 7
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "Occupational asthma and work-related asthma are not the same disease. They may coexist in the same patient, but their causes and development over time can differ significantly.",
+    "alternative1": {
+      "A": "Individuals whose professional activity involves high-molecular-weight agents do not develop work-related asthma.",
+      "B": "The incidence and prevalence of occupational asthma do depend on genetic predisposition."
+    },
+    "alternative2": {
+      "C": "In adult patients with asthma initiated or worsened during work, the diagnosis of work-related asthma should be considered.",
+      "D": "But measurement of IgE in nasal secretion drops drastically within a few days after removal from the causative agent."
+    },
+    "alternative3": {
+      "E": "The treatment of occupational asthma is similar to non-occupational asthma. But measurement of IgE in nasal secretion, which should be monitored in these patients, drops drastically within a few days after removal from the causative agent."
+    },
+    "alternative4": {
+      "A": "Individuals whose professional activity involves high-molecular-weight agents do not develop work-related asthma.",
+      "B": "The incidence and prevalence of occupational asthma do depend on genetic predisposition."
+    },
+    "PROMPT": 8
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "Peak expiratory flow (PEF) is an essential method for monitoring, not initial diagnosis. It measures the fastest possible speed of air that can be exhaled from the lungs after a full inspiration and is used to assess respiratory muscle strength and exercise capacity.",
+    "PROMPT": 9
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "The patient meets the symptoms criteria for severe asthma as described by GINA (2025): recurrent cough and dyspnea, especially at night; rhinorrhea; diffuse wheezing; use of inhaled formoterol and budesonide 1x/day. His symptoms do not respond to SABA alone, and his caregiver reports mold allergens and a cat in the home. The patient's history includes former smoking for 10 years and exposure to cats and dust at home, which can contribute to severe asthma. However, it is important to note that severe asthma must be diagnosed by experienced healthcare providers using proven diagnostic criteria.",
+    "PROMPT": 10
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "The main differential diagnosis of asthma in this patient is bronchiectasis. The patient reports cough, mainly at night, dyspnea on exertion (such as tidying up the house), rhinorrhea, and diffuse wheezing, even while using inhaled formoterol and budesonide 1x/day. He has a history of mold allergy and denies asthma in childhood. His mother also has an asthmatic sister, paternal uncles, grandmother, and cousins with asthma-related conditions.",
+    "diseases_mentioned": [
+      "bronchiectasis",
+      "bronchial obstruction",
+      "PE (pulmonary thromboembolism)",
+      "COPD"
+    ],
+    "PROMPT": 11
+  },
+   {
+    "chosen_letter": "A",
+    "explanation": "",
+    "PROMPT": 12
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "The patient's diagnosis of severe asthma (2017) meets the criteria as stated in the question, which includes the presence of chronic rhinitis and sinusitis with specific allergens. However, without the sputum eosinophilia measurement mentioned in option b), we cannot definitively conclude that he is eligible to receive biologics based solely on his diagnosis of severe asthma. Option c) suggests a more comprehensive approach, but without the specific lab results or treatment history, it's not enough to confirm his eligibility for biologics.",
+    "PROMPT": 13
+  },
+  {
+  "chosen_letter": "C",
+  "explanation": "The correct sequence of predictors associated with good response to anti-IL5 biologics in severe asthma is: 1) Childhood-onset asthma and clinical history suggesting allergen-induced symptoms, followed by (2) Blood eosinophilia, adult-onset asthma and nasal polyps; then (3) Blood eosinophilia and elevated FeNO.52): Match the potential predictors of good response to the respective biologics currently available for severe asthma. Consider that the same predictor may be associated with more than one biologic.",
+  "PROMPT": 14
+},
+   {
+    "chosen_letter": "B",
+    "explanation": "",
+    "PROMPT": 15
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "Childhood asthma is indeed predominantly caused by bacterial infections and eosinophilic inflammation does not play a significant role in disease severity or monitoring for children with suspected asthma. However, it's essential to note that while the pathogenesis of childhood asthma differs from adults, the underlying mechanisms such as bronchial hyperresponsiveness and reversible airway obstruction are common.",
+    "PROMPT": 16
+  },
+   {
+    "chosen_letter": "A",
+    "explanation": "",
+    "PROMPT": 17
+  },
+
+  {
+    "chosen_letter": "C",
+    "explanation": "The GINA report (A) Secukinumab is an anti- interleukin 17A biologic used to treat plaque psoriasis and moderate to severe plaque psoriatic arthritis, not severe eosinophilic asthma. Omalizumab (B) is a humanized monoclonal antibody used to treat moderate to severe allergic rhinitis by blocking the activity of immunoglobulin E (IgE). Tezepelumab (D) and Tocilizumab (E) are humanized IgG1 monoclonal antibodies targeting interleukin 6 (IL-6), used to treat rheumatoid arthritis. Mepolizumab (C) is an anti-interleukin 5 receptor alpha antibody used for the treatment of moderate to severe asthma and eosinophilic granulomatosis with polyangiitis (EGPA). Therefore, among the options provided, Tezepelumab (Option C) is the biologic recommended by GINA for severe eosinophilic asthma.",
+    "answer": "C",
+    "PROMPT": 18
+  },
+     {
+      "chosen_letter": "B",
+    "explanation": "Option B presents the most appropriate therapeutic approach according to GINA (2023). It includes Formoterol/Budesonide, which is recommended for asthma treatment in adults and children with mild persistent or chronic asthma. The formoterol component of this combination medication helps reduce the need for long-acting beta 2-agonists (LABAs), thus reducing exacerbations. Formoterol also enhances lung function, which is beneficial in patients with COPD or other respiratory conditions that cause exacerbations.44 A: Formoterol/Budesonide every 12 hours and as needed in case of symptoms",
+    "PROMPT": 19
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The preferred treatment for asthma control and rescue, in patients > 12 years of age, according to the Global Initiative for Asthma (GINA – 2021), is a moderate dose of inhaled corticosteroid + long-acting β2-agonist + montelukast for control and low dose of inhaled corticosteroid + Formoterol for relief.",
+    "Question": "45 Asthma treatment aims to achieve and maintain current disease control, as well as prevent future risks. This implies a personalized approach, including patient education, written action plan, training in the use of the inhaler device, and review of inhalation technique at each visit.",
+    "PROMPT": 20
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "Anti-IL5/Anti-IL5R medications, such as mepolizumab and reslizumab, are indicated for specific phenotypes in patients with severe refractory asthma. Anti-IL5 leads to a higher likelihood of responding to these anti-IL5 medications compared to anti-IL5R (benralizumab). Therefore, the correct answer is B. This response was selected because it directly addresses the question about specific phenotypes that indicate a good response to Anti-IL5/Anti-IL5R medications.",
+    "PROMPT": 21
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The term 'severe asthma' refers to uncontrolled asthma despite prescribing of medium- or high- dose ICS with a second controller (usually a LABA) or with maintenance OCS, or requiring high- dose treatment to maintain good symptom control and reduce the risk of exacerbations. This definition does not necessarily mean that all severe asthma is caused by eosinophilic inflammation or T2-low phenotype. However, it may align with the eosinophilic phenotype being more common in severe asthma cases.",
+    "Question 70": "The heterogeneous and complex nature of severe asthma signals different disease phenotypes, whose identification may represent an opportunity for successful targeted therapy.",
+    "PROMPT": 22
+  },
+  {
+  "chosen_letter": "A",
+  "explanation": "Smoking is a well-known risk factor for some types of occupational asthma, and statement A correctly identifies that smoking can be associated with occupational asthma.",
+    "PROMPT": 23
+},
+  {
+    "chosen_letter": "C",
+    "explanation": "According to GINA 2023, for asthmatic adults and adolescents, in track 2, for step 1, the preferred recommendation is low-dose inhaled corticosteroid for daily use. This contradicts option C, which states that according to GINA 2023, for asthmatic adults and adolescents, in therapeutic pathways or tracks 1 and 2, the combination of LAMA (long-acting anticholinergics) is indicated only in step 5.",
+    "answer": "C",
+    "PROMPT": 24
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "Inhaled corticosteroid therapy is generally well-tolerated and effective in managing chronic obstructive pulmonary disease (COPD). The main criteria indicating a favorable response to its use in combination with two bronchodilators, such as long-acting beta-2 agonists (LABA) and low-dose inhaled corticosteroids (LTCs), are: [1] Eosinophils between 300 cells/L and < 500 cells/L; [2] asthma severity (moderate or severe); [3] one moderate or severe attack in the previous year.",
+    "PROMPT": 25
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The incorrect alternative is 'c)' Worsening of symptoms at night or in the morning. This statement does not increase the probability of diagnosing asthma, as it refers to a specific pattern of respiratory symptoms that are typically found in patients with asthma.",
+    "answer": "B",
+    "PROMPT": 26
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "The patient's asthma is controlled with formoterol/budesonide 12/400 mcg, tiotropium 5 mcg daily, salbutamol 2 puffs every 12 hours, montelukast sodium 10 mg once daily, and nasal budesonide 100 mcg every twelve hours. The patient has no evidence of significant airway inflammation or allergic rhinitis. A change in medications would not be appropriate at this stage without further assessment to determine if any underlying issues need correction.",
+    "32": {
+      "A": "maintain medications, adding omalizumab",
+      "B": "maintain medications, adding benralizumab",
+      "C": "discontinue tiotropium and start dupilumab",
+      "D": "maintain medications and add prednisone 5 mg per day, permanently",
+      "E": "discontinue all inhaled medications and start triple inhaled therapy in a single device"
+    },
+    "PROMPT": 27
+  },
+  {
+    "chosen_letter": "F", 
+    "explanation": "None of the given statements are true. Salmeterol is a short-acting beta 2-agonist bronchodilator, glycopyrronium bromide is not one (it's an antimuscarinic), umeclidinium is neither inhaled nor used as a beta 2-agonist. Indacaterol and long-acting antimuscarinic bronchodilators like umeclidinium do exist but are not the same as short-acting agents.",
+    "PROMPT": 28
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The correct answer is B) only II and III. Statement I states that for spirometric diagnosis, a positive bronchodilator test requires an increase in FEV1 of at least 200 ml and at least 7% of predicted. However, statement II mentions environmental control measures, influenza vaccination, pneumococcal vaccination, use of inhaled corticosteroids (ICS), and is not specifically mentioned for this positive bronchodilator test criterion. Therefore, II does not meet the criteria set by I. Statement III emphasizes that before stepping up asthma treatment, it's recommended to review inhalation technique, treatment adherence, and control of environmental exposure.",
+    "PROMPT": 29
+  },
+    {
+    "chosen_letter": "E", 
+    "explanation": "",
+    "PROMPT": 30
+  }
+]

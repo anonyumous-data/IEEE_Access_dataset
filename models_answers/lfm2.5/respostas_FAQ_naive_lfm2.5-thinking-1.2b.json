@@ -1,0 +1,159 @@
+[
+  {
+    "chosen_letter": "C",
+    "explanation": "Severe asthma persists with symptoms and increased risk despite optimized treatment use, while uncontrolled asthma may be associated with poor adherence or inadequate treatment.",
+    "QUESTION_16": "The main difference lies in persistence: severe asthma remains unresponsive to management even with optimal care, whereas uncontrolled asthma often stems from non-adherence or insufficient therapy.",
+    "PROMPT": 1
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "GINA 2025 emphasizes that combination therapies like formoterol + inhaled corticosteroid are valid for both maintenance and symptom relief in mild-to-moderate asthma, aligning with option C's assertion.",
+    "PROMPT": 2
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Exhaled Nitric Oxide (FeNO) has a well-established role in the diagnosis of Occupational Asthma (OA), as referenced in the context provided, making this statement accurate.",
+    "PROMPT": 3
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The statement E is incorrect because elderly asthma often involves structural changes like airway narrowing and reduced compliance due to chronic inflammation, which are directly related to endotypes such as Late-Onset Eosinophilic Asthma (LOEA).",
+    "PROMPT": 4
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The statement E correctly identifies Type 2 inflammation involving interleukins 4, 5, and 13 as the primary trigger for bronchial reactivity in asthma, aligning with the context provided about asthma's inflammatory mechanisms.",
+    "PROMPT": 5
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Option C addresses the patient's persistent symptoms through preventive measures like vaccinations, continuous monitoring of oxygen saturation to detect worsening SOB early, and combining maintenance medications (formoterol and budesonide) with rescue therapy. This approach aligns with managing chronic asthma while considering her history of severe exacerbations and current smoking status.",
+    "PROMPT": 6
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The patient's asthma appears controlled with only occasional daytime symptoms requiring relief twice weekly, aligning with option B's assertion of no interference to daily activities.",
+    "PROMPT": 7
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "Occupational asthma is a recognized condition where workplace exposures trigger symptoms, making it essential to consider such diagnoses. The option aligns with clinical guidelines emphasizing evaluation of occupational triggers.",
+    "PROMPT": 8
+  },
+{
+  "chosen_letter": "A",
+  "explanation": "Peak expiratory flow is a monitoring tool but not definitive for initial diagnosis.",
+  "PROMPT": 9
+},
+
+  {
+    "chosen_letter": "A",
+    "explanation": "The diagnosis of 'severe asthma' is appropriate given the patient's symptoms (e.g., nocturnal cough, dyspnea during exertion), use of multiple medications (formoterol and budesonide), family history of asthma, chronic inflammation from allergens/mold/dust exposure, and comorbidities like rhinitis/sinusitis. These factors support a diagnosis of severe asthma requiring comprehensive management.",
+    "PROMPT": 10
+  },
+  {
+    "chosen_letter": "d",
+    "explanation": "The patient presents with symptoms consistent with asthma but has a history of smoking and allergies, which may complicate management. While COPD is possible due to chronic exposure, the confirmed diagnosis of severe asthma suggests it is already diagnosed. However, considering potential comorbidities or alternative conditions like COPD as a differential, COPD aligns with risk factors (smoking) and chronic respiratory issues, making it a plausible consideration.",
+    "PROMPT": 11
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The statement 'May indicate a greater risk of airway remodeling' aligns with chronic asthma progression where structural changes like edema and reduced smooth muscle contribute to irreversible tissue alterations. This directly corresponds to the described bronchi thickening mechanism.",
+    "PROMPT": 12
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient presents with uncontrolled symptoms (dyspnea, rhinorrhea) despite daily use of inhaled corticosteroids. Elevated blood eosinophilia and IgE suggest severe inflammation. His history of asthma in family members and current use of biologics indicate a need for advanced therapy when standard treatments fail.",
+    "PROMPT": 13
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Statements I and III are correct. Statement II is incorrect because empirical antibiotics are not recommended as a gold standard for acute bronchitis without severe symptoms or risk of progression to pneumonia.",
+    "PROMPT": 15
+  },
+  {
+  "chosen_letter": "a",
+  "explanation": "The sequence correctly pairs blood eosinophilia (3) for anti-IL5/tezepelumab, childhood-onset asthma (1) for dupilumab or others, elevated FeNO (3) for tezepelumab, and ensures consistency where applicable.",
+  "PROMPT": 14
+},
+  {
+    "chosen_letter": "A",
+    "explanation": "Statement A aligns with established medical guidelines for asthma management, emphasizing the role of corticosteroids in reducing inflammation and preventing exacerbations.",
+    "Question 34": "The true statement is A.",
+    "PROMPT": 16
+  },
+  {
+    "chosen_letter": "e",
+    "explanation": "All four statements (1-4) accurately describe aspects of asthma diagnosis in children. Statement 2 emphasizes routine use of spirometry and BD monitoring, which aligns with clinical guidelines. Statements 3 and 4 further validate the role of allergy testing and variable symptom patterns in diagnosing intermittent exacerbations.",
+    "PROMPT": 17
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Tezepelumab is recommended by GINA for severe eosinophilic asthma due to its targeting of TSLP and addressing high eosinophil levels, which aligns with the context provided.",
+    "PROMPT": 18
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient presents with frequent symptoms and exacerbations, indicating moderate-severe asthma requiring long-term management. Option C combines Formoterol/Budesonide (a LABA and corticosteroid) for sustained bronchodilation and Tiotropium (a LABA) to address persistent bronchoconstriction. This approach aligns with GINA 2023 guidelines for managing frequent exacerbations through combination therapy.",
+    "PROMPT": 19
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The selected option aligns with GINA's Step 4 guidelines for adults over 12 years of age. This step typically involves combining moderate-dose inhaled corticosteroids (ICS) with long-acting β2-agonists (LABA), such as Formoterol, to manage moderate-to-severe asthma control while addressing relief needs through additional agents like Montelukast when required.",
+    "PROMPT": 20
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "Nasal polyposis is unrelated to asthma biologic therapy targets and not a standard indication for these agents.",
+    "PROMPT": 21
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The context highlights that Type 2 inflammation involves cytokines like IL-13, which plays a critical role in recruiting and sustaining eosinophils—a key component of the heterogeneous asthma phenotypes. This aligns with option E's assertion about IL-13's primary function in eosinophil recruitment and survival.",
+    "PROMPT": 22
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "Serial measurements of peak expiratory flow may lack specificity for diagnosing occupational asthma alone, as other conditions or factors can influence lung function results.",
+    "question": "A) Smoking is a well-defined risk factor...",
+    "incorrect_statement": "B) Serial measurement of peak expiratory flow on spirometry is poorly specific...",
+    "reason": "While spirometry assesses obstructive patterns, it does not always confirm asthma diagnosis due to overlapping conditions. The claim about poor specificity aligns with the need for additional diagnostic tools.",
+    "PROMPT": 23
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The statement in option C claims that for adults and adolescents in track 2 (step 1), low-dose ICS alone is preferred over combination therapy, which contradicts standard GINA guidelines emphasizing initial use of ICS combined with a LABA (e.g., formoterol) as part of step 1 treatment.",
+    "PROMPT": 24
+  },
+  {
+    "chosen_letter": "c",
+    "explanation": "Option c indicates eosinophils between 100-300 cells/L, which aligns with a balance between sufficient inflammation to warrant treatment and manageability. This range suggests a moderate inflammatory state where combination therapy (ICS + LABA+LAMA) could be effective without being overly aggressive, making it favorable for clinical application in COPD patients with asthma.",
+    "PROMPT": 25
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "Chronic expectoration is not a typical symptom of asthma, unlike wheezing, dyspnea, or other listed options. Asthma primarily involves respiratory distress rather than chronic gastrointestinal issues.",
+    "PROMPT": 26
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The patient has experienced recurrent asthma exacerbations (two ER visits) and recent systemic corticosteroid use, indicating potential over-reliance on steroids. Adding a biologic like benralizumab targets eosinophilic inflammation, addressing underlying pathways without further steroid dependence. Maintaining current controllers ensures stability while optimizing control with fewer side effects.",
+    "PROMPT": 27
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "The sequence correctly identifies Salmeterol (T), Glycopyrronium bromide as an antimuscarinic (F), Umeclidinium as a long-acting beta agonist (LABA, T?), and Indacaterol as an antimuscarinic (F). The order aligns with their properties.",
+    "PROMPT": 28
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "All four statements (I, II, III, and IV) are correct based on the provided context. Statement II confirms environmental measures are standard care, while IV aligns with non-triggering factors like emotional stress.",
+    "PROMPT": 29
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "Statements II and III are explicitly supported by the provided context. Statement I lacks a specified percentage reduction, making it uncertain without additional data. However, considering standard biologic efficacy aligns with II and III's accuracy.",
+    "question_35": "The correct answer is E because both II (mepolizumab's role) and III (tezepelumab's corticosteroid-sparing effect) are directly validated by the context.",
+    "PROMPT": 30
+  }
+]

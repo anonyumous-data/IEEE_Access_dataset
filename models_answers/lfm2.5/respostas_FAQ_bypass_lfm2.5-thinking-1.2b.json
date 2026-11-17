@@ -1,0 +1,162 @@
+[
+  {
+    "chosen_letter": "C",
+    "explanation": "Severe asthma persists with symptoms and increased risk despite optimized treatment use, while uncontrolled asthma may be associated with poor adherence or inadequate treatment.",
+    "QUESTION": "What is the main difference between severe asthma and uncontrolled asthma, according to current guidelines?",
+    "PROMPT": 1
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The correct answer aligns with GINA 2025 guidelines, which prioritize combination therapies like formoterol + inhaled corticosteroid for both maintenance and relief in mild-to-moderate asthma, ensuring optimal control without over-reliance on single agents.",
+    "QUESTION": "21 – Regarding the updates in GINA 2025 for asthma management, select the correct alternative.",
+    "PROMPT": 2
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "When an individual becomes sensitized to an occupational agent, even low levels of exposure (within legally permitted limits) can trigger severe bronchospasm, aligning with the pathophysiology of asthma where allergen triggers exacerbate airway inflammation and constriction.",
+    "PROMPT": 3
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The statement in option E claims that the asthma phenotype associated with elderly patients has no direct relationship with structural changes like airway narrowing or reduced compliance, which contradicts established knowledge about age-related structural alterations in chronic asthma.",
+    "QUESTION": "Asthma is a noncommunicable respiratory disease... [the incorrect assertion]",
+    "PROMPT": 4
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The correct statement identifies type II inflammation as central to asthma pathophysiology, involving interleukins 4, 5, and 13, which drive bronchial reactivity. This aligns with established understanding of asthma's immunological mechanisms.",
+    "PROMPT": 5
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient's persistent shortness of breath despite prior management suggests a need for additional treatment. Option C recommends vaccinations (though less critical here), pulse oximetry to monitor oxygen levels (a key indicator for asthma monitoring), and optimized controller medications (formoterol and budesonide) alongside rescue salbutamol use, aligning with her history of recurrent symptoms and the importance of proactive management.",
+    "PROMPT": 6
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The patient requires a combination of inhaled corticosteroids for long-term control and salbutamol for acute relief, necessitating careful management to avoid disrupting training unless necessary.",
+    "PROMPT": 7
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "Work-related asthma arises due to occupational exposures, making its diagnosis critical for appropriate management.",
+    "PROMPT": 8
+  },
+  {
+  "chosen_letter": "B",
+  "explanation": "The reversibility test confirms reversible obstruction, aligning with asthma's characteristics. While other options may misrepresent diagnostic criteria, B correctly identifies the key feature of asthma (reversibility) as critical for diagnosis.",
+  "PROMPT": 9
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient presents with severe asthma symptoms despite using inhaled medications and prior chronic conditions. While comorbidities exist, the clinical presentation aligns with 'severe asthma,' making the diagnosis correct.",
+    "PROMPT": 10
+  },
+  {
+    "chosen_letter": "b",
+    "explanation": "The patient presents with classic asthma symptoms (wheezing, dyspnea at night, use of inhaled medications), which aligns with bronchial obstruction as a key feature. While other conditions like COPD or allergies are possible, the primary diagnosis here is asthma itself, but given the options provided and the need to select from them, 'Bronchial obstruction' best captures the pathophysiological mechanism described.",
+    "PROMPT": 11
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The statement indicates that bronchial wall thickening is typically associated with more advanced disease stages of asthma, aligning with option C's assertion about its presence in advanced phases.",
+    "PROMPT": 12
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient presents with severe asthma characterized by uncontrolled symptoms (cough at night, dyspnea during exertion) alongside use of inhaled medications. His family history of asthma and elevated IgE/eosinophilia suggest a genetic predisposition, making biologics potentially appropriate for managing severe, uncontrolled asthma despite current treatment.",
+    "PROMPT": 13
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The sequence aligns with eosinophilia being associated with multiple biologics such as Anti-IL5 (mepolizumab) and Anti-TSLP (tezepelumab), indicating its role in predicting good response.",
+    "PROMPT": 14
+  },
+  {
+  "chosen_letter": "C",
+  "explanation": "Statements I and III are correct: procalcitonin aids in reducing antibiotic use for viral cases, and viral infections can exacerbate chronic conditions like asthma/COPD."
+  ,"PROMPT": 15
+},
+  {
+    "chosen_letter": "A",
+    "explanation": "Inhaled corticosteroids effectively reduce airway inflammation and prevent exacerbations in children with moderate to severe asthma, aligning with standard clinical guidelines for managing chronic asthma.",
+    "Question 34": "The true statement is A.",
+    "PROMPT": 16
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The statements indicate that spirometry, BHR, and IgE testing aid in diagnosis (1), routine BD use is not universally required for all children with suspected asthma (2 may be overstated), allergy evaluation via IgE confirms allergens (3 correct), and asthma manifests across attack types (4 correct). Thus, all four statements align with standard diagnostic criteria.",
+    "PROMPT": 17
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "Tezepelumab is recommended by GINA for severe eosinophilic asthma as it targets IL-12/IL-23 pathway, addressing underlying inflammation in such cases.",
+    "34": "The selected option aligns with GINA's guidelines for managing severe asthma with eosinophilic features.",
+    "PROMPT": 18
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "According to the Global Strategy for Asthma Management and Prevention (GINA, 2023), a patient with moderate asthma symptoms requiring daily control and exacerbations should be managed with an ICS/LAMA combination plus rescue therapy. Option C provides this approach by combining budesonide (ICS) and tiotropium (LAMA) for maintenance, supplemented by salbutamol as needed for acute relief.",
+    "PROMPT": 19
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "According to GINA 2021 guidelines, step 4 emphasizes a combination of moderate inhaled corticosteroid (ICS) and long-acting beta agonist (LABA) for control, supplemented by low-dose LABA for rescue. Option E aligns with this approach, integrating both control and relief strategies while adhering to the specified format.",
+    "Question": "The answer must be in a json format with chosen_letter, explanation, etc.",
+    "PROMPT": 20
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The exception is C) Onset of asthma in adult life, as these patients may respond better to other treatments or have different disease mechanisms compared to pediatric phenotypes targeted by Anti-IL5/Anti-IL5R medications.",
+    "Question": "The advent of biologics has revolutionized the treatment... EXCEPT:",
+    "PROMPT": 21
+  },
+  {
+    "chosen_letter": "E",
+    "explanation": "The explanation aligns with IL-13's role in eosinophil recruitment, maturation, and survival, which are critical in asthma pathophysiology and targeted therapy opportunities.",
+    "question": "Given the context about heterogeneous asthma phenotypes and targeted therapies, E directly addresses the role of IL-13 in eosinophil-related mechanisms relevant to treatment.",
+    "PROMPT": 22
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The specific bronchial provocation test may not universally be considered the gold standard for occupational asthma diagnosis, as other methods like spirometry or clinical correlation are often used depending on context.",
+    "question": "Which statement is incorrect regarding occupational asthma?",
+    "PROMPT": 23
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "The statement in D claims that for step 1 (track 1), the preferred recommendation involves combining low-dose inhaled corticosteroid with formoterol used as needed, which contradicts standard guidelines where initial therapy typically focuses on single agents like ICS alone. GINA emphasizes starting with low-dose ICS rather than adding adjuncts initially.",
+    "PROMPT": 24
+  },
+  {
+    "chosen_letter": "b",
+    "explanation": "The option b indicates Eosinophils < 100 cells/L, which aligns with a favorable response to inhaled corticosteroid therapy in combination with two bronchodilators (LABA+LAMA) due to lower inflammation levels and reduced exacerbation risk in asthma comorbidity.",
+    "PROMPT": 25
+  },
+  {
+    "chosen_letter": "c",
+    "explanation": "The symptom worsening at night or in the morning (option c) may not universally align with asthma's typical presentation, though it can occur. However, based on standard diagnostic criteria emphasizing triggers like allergens and exercise, this option might be considered less directly indicative compared to other factors.",
+    "PROMPT": 26
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The patient's history of allergic rhinitis and frequent asthma exacerbations suggest an underlying allergic component requiring targeted therapy. Discontinuing tiotropium (a long-acting LAMA) and initiating dupilumab, which addresses IL-4/IL-13 pathways linked to allergic inflammation, aligns with managing her multifactorial disease effectively while avoiding overreliance on current medications.",
+    "PROMPT": 27
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "The analysis indicates Salmeterol (statement 1) is correct as a true statement about its classification. The sequence aligns with option a if the first element is True.",
+    "PROMPT": 28
+  },
+  {
+  "chosen_letter": "B",
+  "explanation": "Statements II and III are correct. Statement I aligns with standard bronchodilator criteria, while III emphasizes pre-treatment preparation. Statement IV is incorrect because emotional stress can trigger asthma exacerbations."
+  ,"PROMPT": 29
+},
+  {
+    "chosen_letter": "E",
+    "explanation": "All three statements (I, II, and III) are accurate based on biologic therapy guidelines for severe asthma.",
+    "QUESTION": "Which are correct? A) Only I. B) Only II. C) Only I and II. D) Only I and III. E) I, II and III.",
+    "PROMPT": 30
+  }
+]

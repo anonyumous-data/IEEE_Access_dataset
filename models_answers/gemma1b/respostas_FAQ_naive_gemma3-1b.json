@@ -1,0 +1,152 @@
+[
+  {
+    "PROMPT": 1,
+    "chosen_letter": "",
+    "explanation": "Answer: The main difference between severe asthma and uncontrollable asthma according to current guidelines is that persistent symptoms, increased risk of exacerbations, difficulty in treatment, and a greater degree of medical need all represent key indicators, though the causes and triggers may vary . It is important to note that both conditions are not always the same in terms of presentation; for example one patient might have some symptoms which are difficult to treat while another does not. Severe Asthma usually shows a chronic presence with increased risk , whereas uncontrolled asthma can be triggered by factors such as respiratory system or environmental issues with an increased symptom frequency (with no effective treatment)."
+  },
+  {
+    "PROMPT": 2,
+    "chosen_letter": "C",
+    "explanation": "GINA 2025 significantly revised the guidelines regarding Asthma management which emphasizes that biologic therapies should be considered for all patients with persistent symptoms, despite the potential limitations. QUESTION 21: true"
+  },
+  {
+    "PROMPT": 3,
+    "chosen_letter": "C",
+    "explanation": "Occupational Asthma is defined as a condition in which the specific triggers and severity are significantly higher than the general population, it has been observed that exposure levels are essential to develop occupational asthma. QUESTION 19: When an individual becomes sensitized to an occupational agent, even low levels of exposure (within legally permitted limits) can trigger severe bronchospasm. Relevant_Evidence: Document_Chunk 20: Exposure leads to clinical symptoms and increases the likelihood of developing respiratory disease. There is often no clinical indication of the development of asthma when exposure remains below the specified level and with appropriate mitigation measures. Document_Chunk 3: The study confirms that there is an indirect relationship between workplace exposures, and occupational Asthma. Studies show reduced prevalence of asthma in the workplaces, but these are not directly correlated to significant exposure levels. Document_Chunk 22: In fact, Exposure and the onset of occupational Asthma is a clear, consistent component across multiple studies. Negative_Evidence_Rationale: While some evidence suggests exposure may play a role or could be a contributing factor for asthma, there are several issues related to the effects that the body experienced when being exposed to high concentrations. So , this response aligns closely with establishing that exposure is not a critical primary cause as it involves direct inflammation and severe bronchospasm during clinical trials."
+  },
+  {
+    "PROMPT": 4,
+    "chosen_letter": "C",
+    "explanation": "The passage emphasizes that T2 immune responses primarily involve allergen-mediated hypersensitivity, and eosinophils, rather than a Th2-high phenotype. Earlier studies suggested that late onset asthma was mainly linked to allergy, but this has shifted over time. Later research demonstrates a broader range of immune activation including Th2, BLi (basement1- derived) pathway responses. The conditions presented in the passage are consistent with findings on T2-low asthma; which is characterized by a low inflammatory response, often driven by environmental factors and obesity, causing symptoms that evolve through older age. QUESTION 29: What specific factor(s) led to the conclusion that early asthma development (typically late-onset) was mainly associated with allergen-mediated hypersensitivity?"
+  },
+  {
+    "PROMPT": 5,
+    "chosen_letter": "C",
+    "explanation": "The question defines asthma as characterized by episodes of airway obstruction and increased airway responsiveness, along with an inflammatory reaction. Option C describes the typical infiltrate; it primarily consists of neutrophils, not eosinophils or mast cells. Therefore option C represents a reasonable description of what is observed in a case of asthma. 35: Correct"
+  },
+  {
+    "PROMPT": 6,
+    "chosen_letter": "B",
+    "explanation": "(START) The patient presents with symptoms suggestive of a persistent exacerbation, returning after an emergency period and indicating a decreased response to standard treatment. The history of an ICU admission, and the indication for return to being able to have controlled breathing is concerning; Therefore this warrants referral to specialty care or hospitalisation, given her underlying issues. 36: Risk assessment: Based on recent asthma episodes, increased reliance on rescue medication (Salbutamol Spray), limited symptom control with standard therapy, patient smoking history and the need of an ICU admission, and continued dyspnea at rest during mild exertion it is possible that this could escalate to an episode or exacerbation. This should be referred for specialist care based on a risk assessment. assessment: the assessment indicates she has respiratory difficulties which would suggest more in depth medical evaluation. It also means there may require further intervention or treatment in a healthcare setting such as ICU, but she already exhibits symptoms that are worsening."
+  },
+  {
+    "PROMPT": 7,
+    "chosen_letter": "B",
+    "explanation": "The question asks about Asthma control. The provided information mentions daytime symptoms, a lack of restriction in activities, and medication use – all indicative of controlled asthma. 37. Female patient, professional athlete, with asthma, presented, in the last 4 weeks, daytime symptoms 2x/week. Select the correct alternative. (A) The patient's asthma is partially controlled. (B) The patient’s asthma is controlled, as it does not interfere with his daily activities. The answer is (B). Because A is about the level of asthma control; and there were described normal activity that can be expected without significant issues relating to the clinical side. Although not perfectly controlled the response indicates that it is being managed;"
+  },
+  {
+    "PROMPT": 8,
+    "chosen_letter": "C",
+    "explanation": "[Occupational asthma is primarily linked to high-molecular-weight agents or exposure], and is most likely caused by workplace allergens or fumes rather than individual genetic propensity. 43: D"
+  },
+  {
+    "PROMPT": 9,
+    "chosen_letter": "A",
+    "explanation": "The question asks for what happens if you are using spirometry to diagnose asthma. Spirometry indicates a breathing defect – whether it is reversible or irreversible - It detects structural problems like bronchospasm, and can help confirm the diagnosis of asthma; which includes wheezing. Reversibility testing, as well as assessment when there's a symptom, doesn’t definitively establish an eventual diagnosis but facilitates diagnosis by confirming that airflow occurs without issues. 43: with spirometry, patients with confirmed disease may find it unreliable (as measured by the rate of reversibility). Therefore Spirometry, for initial determination, is usually used and not taken to determine whether asthma is a diagnosis."
+  },
+  {
+    "PROMPT": 10,
+    "chosen_letter": "e",
+    "explanation": "The provided information suggests a pattern of severe asthma that has been diagnosed over many years, this does not represent an update. There will be an increase in symptoms or respiratory complaints over the last five years. The patient also admits to using medicines 1x/day and history, while there is only one disease. As such the case can be considered. 48: yes, duration: 2017, severity: severe"
+  },
+  {
+    "PROMPT": 11,
+    "chosen_letter": "B",
+    "explanation": "The patient’s history of smoking, including long-term exposure to pollutants (mold and dust), airflow limitation due to chronic rhinitis and sinusitis, and the presence of allergic sensitization contribute to the high likelihood of a complex underlying cause of asthma. Given the symptoms described in the question, his history should be considered. Specifically, the patient has a long history, combined with a smoking habit that will exacerbate airway inflammation. Further details on his respiratory pathophysiology are vital. His breathing is aggravated with coughing and wheezing; symptoms increase to its maximum when it occurs due to allergic exposure. The use of medications which also influence lung function means it is important to determine whether the patient responds as expected upon therapeutic intervention. 49: The diagnosis of severe asthma in a 44-year old male, combined with his history – smoking, nasal allergy sensitivity, and chronic rhinitis/sinusitis – suggests several potential differential diagnoses. Here's why option B is the most probable: Bronchial obstruction - The patient is presenting with wheezing, cough and dyspnea which is severe at night suggesting a more severe condition, such as an asthma variant including chronic inflammation"
+  },
+  {
+    "PROMPT": 12,
+    "chosen_letter": "A",
+    "explanation": "The patient presents with a history of severe asthma and symptoms mimicking acute lung disease, including cough, dyspnea on exertion, rhinorrhea, and diffuse wheezing. His past smoker’s history provides evidence for an allergic etiology – possible mold & dust sensitization. Allergic conditions significantly impact a respiratory condition of this nature. 50: (F); (F); (T); (F). This is because the patient's symptoms—cough, dyspnea, Rhinorrhea and Wheezing —are suggestive of an acute asthma, despite his history being ‘severe asthma’. He had some history of chronic rhinitis and sinusitis. A significant risk exposure is also due to smoking, further increasing his likelihood of developing a condition where there would be increased airway reactivity. The symptoms present are more than expected at a typical asthma-related phase – although mild exacerbations have been observed in patients. Correct Answer: F"
+  },
+  {
+    "PROMPT": 13,
+    "chosen_letter": "b",
+    "explanation": "reference_document_number: 1; entry_type: patient_history; selection_criteria: Age <44 (age 44), Diagnosis of severe asthma (2017); relevant_data: {diagnosis_date: 2017, asthma_history: Severe asthma, symptoms: cough, mainly at night, dyspnea on exertion, past_medical: denies asthma in childhood, allergens: mold, dust, health_status: hypertension false, drug_usage: inhaler budesonide 1x/day, adverse_reactions: none encountered}; conclusion: true"
+  },
+  {
+    "PROMPT": 14,
+    "chosen_letter": "b",
+    "explanation": "Good response is defined as a favorable clinical trajectory and a relatively low risk of progression. Given these considerations, the following correlations are deemed most closely related to successful therapy: A - Child-onset asthma + history of allergen exposure and nasal polyps indicates that elevated FeNO in patients likely needs an initial level boost with anti-IL5/5R - B - Blood eosinophilia is strongly associated with progression, necessitating the application of therapeutic intervention such as anti-IgE or anti-IL5-R alpha - C - Patient history of severe asthma shows a good response to biologic therapy in patients who don't respond well. But if there occurs an increase that indicates an exacerbation, then more treatment and careful monitoring are needed which makes treatment with anti-ESLP with reduced clinical benefit in early stages. reference_doc: [1]"
+  },
+  {
+    "PROMPT": 15,
+    "chosen_letter": "A",
+    "explanation": "(A) In community-acquired pneumonias, the use of biomarkers such as procalciticin can help reduce unnecessary antibiotic use, especially in viral cases, when used together with clinical and radiological evaluation. Relates to pathophysiology - it acknowledges multiple infection spectrums. question_29: Respiratory tract infections can have distinct pathophysiological spectra (viral, bacterial, polymicrobial infections, infections of an 'adjacent organ' with pulmonary repercussions) and the pulmonologist must know how to grade severity, anatomical extent and appropriate therapeutic indication. On this subject, analyze the following statements."
+  },
+  {
+    "PROMPT": 16,
+    "chosen_letter": "B",
+    "explanation": "The statements all propose various perspectives for childhood asthma. Let's break it down: A: Cased correctly that ICS reduce inflammation. B: Eosinophilic inflammation is irrelevant and lacks significance as a driver of severity or treatment, limiting the usefulness of testing in children with asthma. C: Exposure to environmental allergens are only associated with symptoms, not diagnosis/management. D: Spirometry only offers insights on adults, missing out details regarding child population differences. Therefore, option B is most accurate as it correctly describes the current understanding and limitations of asthma management in children. Question 34: Is it true in childhood asthma diagnosis and care are primarily driven by patient-centric strategies? answer: Y"
+  },
+  {
+    "PROMPT": 17,
+    "chosen_letter": "a",
+    "explanation": "Asthma is the most frequent chronic disease in childhood worldwide, spirometry, bronchodilator testing, and inflammation measures are important for diagnosis. The statements given describe all this. 35: true"
+  },
+  {
+    "PROMPT": 18,
+    "chosen_letter": "E",
+    "explanation": "The GINA strategy includes targeted treatment for severe asthma and emphasizes the benefits of biologics. reference_id: 1"
+  },
+  {
+    "PROMPT": 19,
+    "chosen_letter": "A",
+    "explanation": "is the most appropriate therapeutic approach? This requires a detailed understanding of asthma management strategies guided by GINAs recommendations, considering multiple factors – symptom control, exacerbation rate, patient compliance and the option to add biologic medications. Based on these key considerations: A is best. Salbutamol as needed has low risk, but this does not fully address high rates of exacerbations. Formoterol/Budesonide as needed with the recommendation for continuous medication makes it less appropriate. The patient has asthma with frequent symptoms – 2x/week, exacerbated episodes three times per year and a potential need to lower risk through more treatments. reference_document_list: reference_id 1, content: is the most appropriate therapeutic approach? This requires a detailed understanding of asthma management strategies guided by GINAs recommendations, considering multiple factors – symptom control, exacerbation rate, patient compliance and the option to add biologic medications. Based on these key considerations: A is best. Salbutamol as needed has low risk, but this does not fully address high rates of exacerbations. Formoterol/Budesonide as needed with the recommendation for continuous medication makes it less appropriate. relevant_notes: Patient Condition: The patient’s history indicates a need to optimize asthma management across the season (and high-risk period)"
+  },
+  {
+    "PROMPT": 20,
+    "chosen_letter": "A",
+    "explanation": "The GINA Recommendation highlights a personalized approach involving five steps: treatment, prevention, education, device training and technique evaluation. This strongly supports the recommended approach of A – High dose of inhaled corticosteroids including Long-acting β2-agonists + Formoterol. question_45: Considering the GINA recommendations for asthma control, which is divided into five steps which emphasizes a personal plan and includes in addition to pharmacological treatment, patient education, written action plans, device training, and technique evaluation? Justification based on information derived from documents - 1: A : This approach encompasses all 5 key steps as detailed, demonstrating consideration for patient needs."
+  },
+  {
+    "PROMPT": 21,
+    "chosen_letter": "A",
+    "explanation": "Question 62: The question asks which condition is NOT primarily indicated by biologics used in severe refractory asthma. selected_option: B"
+  },
+  {
+    "PROMPT": 22,
+    "chosen_letter": "E",
+    "explanation": "Severe asthma manifests differently with identifiable phenotypes and, by understanding these distinct patterns it is easier to pinpoint appropriate targeting, offering the possibility for targeted therapeutics. Question 70: IL-4 has as its main role helping the recruitment, maturation and survival of eosinophils. – Yes."
+  },
+  {
+    "PROMPT": 23,
+    "chosen_letter": "A",
+    "explanation": ""
+  },
+  {
+    "PROMPT": 24,
+    "chosen_letter": "A",
+    "explanation": "*The statement emphasizes that Cystic Fibrosis and Alpha 1 Antitrypsin Deficiency should be considered as differential diagnoses among the 12- to 39-year-old age group.* correct: true reference_document_id: 1"
+  },
+  {
+    "PROMPT": 25,
+    "chosen_letter": "B",
+    "explanation": "43: true"
+  },
+  {
+    "PROMPT": 26,
+    "chosen_letter": "C",
+    "explanation": "The key differentiating feature of asthma is its fluctuating symptoms that tend to be more severe than during other respiratory conditions. 52: C - All listed scenarios are associated with the diagnosis or risk factors for asthma. Therefore, option C accurately reflects this characteristic of Asthma. - D - Asthma can be defined based on wheezing events, and is considered to have varying symptoms - A - chronic expectoration is seen as a feature in cases of asthmatic patients (E) – E - presence of wheezing, dyspnea and cough are key features. -B – the correct indication for asthma diagnosis involves exposure to triggers such as smoke."
+  },
+  {
+    "PROMPT": 27,
+    "chosen_letter": "B",
+    "explanation": "The patient presents with frequent asthma exacerbation episodes, triggering events requiring emergency room visits, and current corticosteroid use. A realistic progression likely involves increased risk of inflammation in the acute phase (after using corticosteroids) by adding an immunomodulator. Benralizumab is better suited for this chronic condition than tiotropium as a reliever medication due to its potentially superior effectiveness at maintaining long term control. 32: The patient is in persistent asthma, but there is no evidence that the medications have been effectively controlled during the past year. 35: There could be intermittent exacerbations associated with her clinical symptoms while corticosteroids are being employed for symptom control. This is potentially the best approach - combining a reliever treatment regimen alongside an immunomodulator. 42: Benralizumab can target airway inflammation more efficiently than tiotropium which reduces potential risk of respiratory overactivity and exacerbating factors. Consideration: Patient history includes frequent triggers and asthma exacerbations, increasing the need for close monitoring. The patient's current medications (Formoterol and Salbutamol) has limited side effects associated with a new medication. Therefore, implementing an additional Immunomodulator requires careful consideration."
+  },
+  {
+    "PROMPT": 28,
+    "chosen_letter": "C",
+    "explanation": "Salmeterol - F: Short -acting Beta 2 Agonists (SABA) - F: Glycopyrronium Bromide - T: Umeclidinium-T: Indacaterol. 58_value: C"
+  },
+  {
+    "PROMPT": 29,
+    "chosen_letter": "II",
+    "explanation": "'I' states that spirometric diagnosis should consider a positive bronchodilator test when there is an increase in FEV1 of at least 200 ml, but it does not explain whether this happens. II explains that environmental control measures, influenza, pneumococcal vaccination and inhalation corticosteroids need to be prescribed before stepping up asthma treatment. QUESTION 15: Which are correct? answer: II detailed_justification: Statement I mentions a positive bronchodilator test. In contrast, statement II explains that before treating, it’s important to examine inhalation technique, control of environmental exposure and medication adherence; this is an area that requires comprehensive examination for diagnosis. As such, we have the most comprehensive response."
+  },
+  {
+    "PROMPT": 30,
+    "chosen_letter": "A",
+    "explanation": "The question asks about biologics' effects on severe asthma exacerbations. Biologicals are indeed effective. I indicated here with a reduction in exacerbations by 25%. Omalizumab shows specific effects. A is the correct answer. QUESTION 35: Only I."
+  }
+]

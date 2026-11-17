@@ -1,0 +1,152 @@
+[
+  {
+    "PROMPT": 1,
+    "chosen_letter": "C",
+    "explanation": "Current guidelines generally distinguish between severe and uncontrolled asthma based on the persistence of symptoms despite treatments, rather than solely relying on exacerbations alone. The combination of these factors often points towards a more challenging situation involving inadequate treatment or adherence."
+  },
+  {
+    "PROMPT": 2,
+    "chosen_letter": "B",
+    "explanation": "GINA 2025 mandates a broader approach to therapy, including biologic interventions for persistent asthma across all patient phenotypes. Option B accurately reflects this revised recommendation. Let's examine why the other options are incorrect:"
+  },
+  {
+    "PROMPT": 3,
+    "chosen_letter": "",
+    "explanation": "Okay, please give me question 19! I'll need it before answering in JSON format with A, B, C, D, or E."
+  },
+  {
+    "PROMPT": 4,
+    "chosen_letter": "A",
+    "explanation": "The passage states that Th2-high phenotype was first associated with atopic predisposition and IgE/eosinophil levels. This indicates a focus on immune activation by T2 cytokines, which aligns logically with option A."
+  },
+  {
+    "PROMPT": 5,
+    "chosen_letter": "A",
+    "explanation": "Asthma's heritable components are strongly linked to atopy – the genetic predisposition to IgA production in response to allergens. This inherited tendency significantly elevates asthma risk and severity."
+  },
+  {
+    "PROMPT": 6,
+    "chosen_letter": "A",
+    "explanation": "Given the information provided – a history of a severe asthma attack, smoking history, current worsening shortness of breath despite medication, and recent ICU admission, the patient is severely unstable. The combination strongly suggests a potentially life-threatening condition requiring urgent intervention. A rescue drug strategy (formoterol & budesonide) alongside salbutamol spray are likely necessary.  The clinical presentation – exacerbated breathing at rest with minimal exertion - reinforces this assessment."
+  },
+  {
+    "PROMPT": 7,
+    "chosen_letter": "A",
+    "explanation": "The patient presents with intermittent daytime symptoms (twice/week) and requires medication 2x/week. This pattern strongly suggests partial asthma control, as controlled asthma often involves occasional flare-ups. The other options suggest the opposite – uncontrolled or near-uncontrolled conditions."
+  },
+  {
+    "PROMPT": 8,
+    "chosen_letter": "B",
+    "explanation": "¿Quiénes sus profesionales de la actividad realizan no desarrollan asma relacionada con el trabajo? Individuos quienes su actividad profesional involucre agentes mas pesos pesados hacen que no desarrolle asma relacionada con el trabajo? ,43: 2"
+  },
+  {
+    "PROMPT": 9,
+    "chosen_letter": "D",
+    "explanation": "Wheezes are a hallmark symptom of asthma, making it easily detectable during a physical exam and essential for confirming the diagnosis.  The other answers address aspects of *management* after a diagnosis (A, B, C), or different types of testing that aren't directly related to the initial *diagnosis* itself."
+  },
+  {
+    "PROMPT": 10,
+    "chosen_letter": "e",
+    "explanation": "Yes, because he's a young adult and his diagnosis was made 2017. Here’s why: Let’s break down the reasoning: * Diagnosed at Age 2017: This highlights a recent onset of asthma—a defining characteristic of reactive conditions. * Key Symptoms: The patient's current symptoms – cough, night dyspnea (especially when ‘tidying up’), wheezing, and nasal passages - perfectly align with the classic presentation of acute exacerbations/reactive asthma based on their past history and medication use *specifically* for this period. Rationale for Other Options * a) Yes, because he is very symptomatic. - Symptom prevalence isn't sufficient to confirm a correct diagnosis, especially in retrospect. * (c) Yes, because he has untreated comorbidities: While chronic rhinitis and sinusitis are factors, the *presentation of acute asthma* makes this less relevant as an exception. It could be a flare-up stemming from a latent condition. * d) No, because the patient is in contact with allergens. – Allergic reactions often coface with asthma symptoms, but the focus needs to be on presenting symptoms—the current clinical picture strongly suggests a reactive etiology of asthma. Would you like me to explain any part more in depth or provide further justification?"
+  },
+  {
+    "PROMPT": 11,
+    "chosen_letter": "c",
+    "explanation": "PE (pulμονary embolism.) Here’s the reasoning: * History of Asthma: The patient's diagnosis and history of uncontrolled asthma, especially with using inhaled medications, point towards a recurring respiratory issue. * Exacerbation Symptoms: His reported symptoms – cough at night, dyspnea on exertion (tiding up the house), rhinorrhea, diffuse wheezing, use of inhalers – strongly suggest asthma exacerbations and bronchospasm. These are consistent with an ongoing inflammatory process in his airways. * Risk factors The patient's history of smoking for 10 years is concerning for a developing pulmonary embolism which needs to be taken into account as he uses inhaled medications, creating a high risk. Let’s eliminate other choices: * a) Bronchiectasis - While it could *lead* to asthma, the combination of symptoms and recent history argues against this being the primary driver of his issues . * b) Bronchial obstruction – A chronic airflow limitation could manifest in similar ways, but a focal exacerbation with clear respiratory symptoms make this less likely. * d) COPD - While smoking increases lung disease risk, it's not the most immediate or prominent feature in the presentation of the patient’s problem Explanation: Given the patient’s history and symptoms, a Pulmonary Embolism (PE) needs to be considered. A PE triggers inflammation and edema within the pulmonary arteries as well which causes chest pain and difficulty breathing."
+  },
+  {
+    "PROMPT": 12,
+    "chosen_letter": "a",
+    "explanation": "Here's a breakdown of the answers and why they fit the provided clinical picture, focusing on understanding the sequence and implications: * Understanding Mild to Moderate Diffused Bronchial Wall Thickening in Asthma: In asthma, this thickening often points towards an advanced stage. It’s driven by factors like inflammation, airway remodeling, and impaired smooth muscle function resulting from increased edema. Now let's analyze the statements based on your case: * (F) (F); (F); (F); (T) - This suggests a *lack of progression*. In advanced asthma, thickening is *less* likely to show the hallmarks that are seen in mild/moderate cases – no dramatic changes or worsening. The previous stages of inflammation point toward more progression without the described modifications. Therefore, **(F); (F); (F); (T)** represents the correct sequence. Final Answer: (F); (F); (F); (T)"
+  },
+  {
+    "PROMPT": 13,
+    "chosen_letter": "A",
+    "explanation": "The question strongly suggests the patient's condition *could* benefit from biologics due to his IgE level (395.8 IU/mL) and blood eosinophilophilia (1000/mm³). While allergies are a concern, being diagnosed with severe asthma without control necessitates consideration of biologic options when clinical worsening occurs. Therefore, the best initial response is that **Yes, he is eligible to receive biologics**. Rationale for other option choices: * (b) No, because we do not have the sputum eosinophilia measurement.: Missing this crucial data makes a definitive 'no' impossible at this stage. * (c) Yes, because the tests identify severe asthma that is difficult to control.: This is somewhat accurate but doesn't strongly lean towards biologics – more extensive testing would be needed to confirm. * (d) No, because he still does not use high-dose inhaled corticosteroid.: While current treatment may be insufficient with his asthma characteristics, a diagnosis of severe asthma demands a deeper assessment of efficacy before considering steroid therapy."
+  },
+  {
+    "PROMPT": 14,
+    "chosen_letter": "c",
+    "explanation": "(c) - The sequence is correctly presented. Here's the rationale: You listed several predictors of good response to biologics for severe asthma, and we need to figure out the *correct* order that aligns with this reasoning, considering possible associations between these factors in different biologics. Anti-IgE has been shown effective for patients with milder allergic asthma as well, so it's logical to include this even in patients with more severe disease. Therefore, sequence: (1) (2) (3) ( )"
+  },
+  {
+    "PROMPT": 15,
+    "chosen_letter": "A",
+    "explanation": "The correct answer is **(A)** Here's why: * Statement I: Procalcitotin (PCT) is indeed used as a biomarker to guide antibiotic selection in community-acquired pneumonia (CAP), particularly when viral infection exists, reducing unnecessary antibiotics for mild cases of CAP. This aligns with established clinical best practices. * Statement II: The gold standard for preventing progression to pneumonia in acute bronchitis *without* COPD, without fever, and without tachycardia/systemic manifestations remains empirical antibiotic use. This is supported by current guidelines. * Therefore: Statement I accurately captures a clinically useful application of biomarkers and judicious clinical decision-making related to antibiotic usage. Statement II is inconsistent with current recommendations and focuses on a very specific scenario – not broadly applicable.. Let's eliminate the other options: (B): Incorrect statement, as both I & II are accurate. (C): Incorrect statement, Statement III presents an inaccurate assessment of the influence of viral infections on prior chronic respiratory diseases (D): Unrelated to previous analysis of two statements related with the chosen letter."
+  },
+  {
+    "PROMPT": 16,
+    "chosen_letter": "A",
+    "explanation": "Okay, let's analyze each statement within the context of asthma pathogenesis, risk factors, and management as presented (and assumed to be) in the passage: Here’s my analysis & selection of the true answer: The correct answer is **(A)** Explanation: * (A) 'Regular use of inhaled corticosteroids in children with moderate to severe persistent asthma reduces airway inflammation and prevents exacerbations' accurately reflects current clinical practice. The passage explicitly states that bronchodilators like inhaled corticosteroids are a core component of asthma control, decreasing inflammation and mitigating the likelihood of worsening conditions, thus preventing attacks. Reasons why other statements are incorrect: * (B) - While bacterial infection is known to play a role in asthma in certain cases it’s not stated as the primary cause here - instead, the disease is characterized by airway inflammatory response with reversible obstruction leading to wheezing. * (C) – Environmental control and allergy avoidance are indeed key for managing asthma (the passage highlights the importance of this for *preventing* exacerbations). * (D) – Spirometry serves as a valuable diagnostic tool in children, crucial for monitoring lung function and helping to differentiate between different conditions. Ignoring it in follow-up would not be appropriate, especially with suspected asthma. --- Therefore, my answer is A."
+  },
+  {
+    "PROMPT": 17,
+    "chosen_letter": "c",
+    "explanation": "c. Only statement 1, 3 & 4 are correct. Here's the explanation: Let’s break down why: * Statement 1 - Is correct: Asthma diagnosis heavily relies on pulmonary function tests (which include BHR and inflammation measurements) alongside clinical features like wheezing or dyspnea. * Statement 2 - is correct: Regular spirometry, especially following bronchodilator use, is a standard diagnostic protocol for suspected asthma.* Statement 3- is correct – While allergies are increasingly recognized as important, the diagnosis often involves an initial assessment of inflammation and airway reactivity through lung function testing, and allergen detection by skin or blood tests. * Statement 4 - is consistent: Asthma symptoms can vary in severity—mild, moderate, or severe—and manifest sporadically. Therefore, all four statements are supporting evidence for the correct interpretation related to asthma diagnosis as detailed in the prompt's response."
+  },
+  {
+    "PROMPT": 18,
+    "chosen_letter": "E",
+    "explanation": "GINA recommends mepolizum as a biologic for severe eosinophilic asthma."
+  },
+  {
+    "PROMPT": 19,
+    "chosen_letter": "A",
+    "explanation": "The Global Strategy emphasizes rapid symptom management within asthma exacerbations to prevent further deterioration. Salbutamol as needed aligns with this priority."
+  },
+  {
+    "PROMPT": 20,
+    "chosen_letter": "C",
+    "explanation": "The Ginali statement indicates a targeted approach for asthma patients, focusing on Step 4 which is best addressed with a combination of: moderate inhaled corticosteroids, short-acting β2 agonists, and Tiotropium. This choice is presented as the primary regimen when patients are older than 12 years old."
+  },
+  {
+    "PROMPT": 21,
+    "chosen_letter": "B",
+    "explanation": "While eosinophilia is a common symptom of reactive asthma, and nasal polyosis can be associated with allergies or irritants, the other options describe potential characteristics of conditions that might *not* be influenced by biologic therapies.  Eosinophilia and onsets of asthma in adult life are generally less strongly linked to biologic treatment than the remaining choices."
+  },
+  {
+    "PROMPT": 22,
+    "chosen_letter": "A",
+    "explanation": "The correct answer is **A) The eosinophilic phenotype is the most common.** Here's why: * Severe asthma often includes a high proportion of eosinophil activity: A large body of scientific literature consistently points to an increased prevalence and severity of eosinophilia (presence of eosinophils) in individuals with severe asthma. Eosinophills are implicated as contributing factors for airway obstruction While other phenotypes exist, the consistent connection between eosinophilia and severe asthma makes the eosinophilic phenotype more prevalent across many studies than the others suggested by this response. Let's break down why the other options are incorrect: * B) The T2-low endotype corresponds to most cases of severe asthma. – The T2-low endotype is largely associated with **bronchial hyperresponsiveness**, not an over prevalence in severe asthma; it’s less consistently found as the dominant phenotype. * C) - paucigranulocytic phenotypes are generally observed only more in some patients that have been treated with the use of medications for longer duration. There is limited evidence to show this being prevalent. * D) IL-4 acts mainly by promoting remodeling of the smooth muscle of the airways. – While IL-4 does have a role, its impact isn’t exclusively focused on this pathway. It's one of many cytokines involved and influence has some variations. * E) - IL-13 is more related to inflammation; there's also less well documented evidence compared to Eosinophilia."
+  },
+  {
+    "PROMPT": 23,
+    "chosen_letter": "C",
+    "explanation": "C: The specific bronchial provocation test is considered the gold standard for the diagnosis of occupational asthma. Here's why: * Bronchial provocation tests (BPTs), like Isotonic Bronrenergic Test (IBT), are specifically designed to diagnose occupational asthma by identifying sensitization to certain chemicals or compounds found in the workplace that trigger a hypersensitive inflammatory response at the lungs. These tests differentiate it from other conditions where asthma symptoms can be induced, such as allergens, viral infections, etc. Let's look at why the others are correct: * A) Smoking is a well-defined risk factor for some types of occupational asthma. – True – This is established medical fact. * B) Serial measurement of peak expiratory flow on spirometry is poorly specific for its diagnosis. – False – It's widely recognized as a crucial diagnostic tool. * D) Serial spirometric measurements of peak exhales have high sensitivity for the diagnosis of occupational asthma. - Correct, it’s a common method used for confirmation and identification of the condition in patients with symptoms which are not easily clarified by other ways * E) Occupational Asthma due to sensitizer is more frequently associated with an eosinophilic phenotype than asthma aggravated or exacerbated by work.: - True – Skin sensitization plays a key role, often manifesting as allergic bronchoconsevere reactions."
+  },
+  {
+    "PROMPT": 24,
+    "chosen_letter": "C",
+    "explanation": "The provided statement “According to GINA 2023, for asthmatic adults and adolescents, in track 2, for step 1, the preferred recommendation is low-dose inhaled corticosteroid for daily use.” is an exception because the core of its justification revolves around the guidance regarding low-dose inhaled corticosteroids (considered a cornerstone of asthma control). The entire focus within that statement centers on prescribing LAMA as a preferred option. The other choices accurately reflect GINA 2023 guidance with respect to asthmatic adults and adolescents – focusing specifically on the use of Low Dose Inhaled Corticosteroid for step one."
+  },
+  {
+    "PROMPT": 25,
+    "chosen_letter": "c",
+    "explanation": "Infections with eosinophilic pneumonitis are a well-known complication that can occur when inhaled corticosteroids are used as part of therapy for COPD. Eosinophil counts significantly elevated are indicative of this condition, aligning perfectly with option c. Let's break down why the other options don’t apply: * A: Eosinophils >200 cells/L is highly suggestive of a parasitic infection, not a common consequence of inhaled corticosteroids and COPD. * B: Low eosinophil counts are less associated with a favorable response. * D: Elevated eosinophils usually point to an allergic reaction or other inflammatory processes unrelated to corticosteroid use in COPD. * E: This isn't directly supported by the criteria for favorable responses to inhaled corticosteroids in COPD."
+  },
+  {
+    "PROMPT": 26,
+    "chosen_letter": "A",
+    "explanation": "Chronic expectoration is a classic symptom of asthma. While it can occur with other respiratory ailments like cystic fibrosis or bronchitis, it's not generally considered part of the usual profile for asthma diagnosis."
+  },
+  {
+    "PROMPT": 27,
+    "chosen_letter": "B",
+    "explanation": "Let’s break down this situation to determine the correct management choice. Understanding the Case: This patient is experiencing recurrent asthma exacerbations with corticosteroid deficiencies requiring emergency room visits and systemic treatments. Her history of allergies, chronic medication use (including corticosteroids), and the recent need for further corticosteroids point toward a severe allergic response or co-exists with a complicated inflammatory state affecting her airways. Here's an assessment of each option: * A) maintain medications, adding omalizumab: Omalimabuz is a monoclonal antibody used in serious autoimmune diseases which have known lung and respiratory effects, so this would potentially be beneficial. However, it's not the first line approach for her current presentation – focusing on allergen exposure alone isn’t sufficient here. * B) maintain medications, adding benralizumab: Benralumab is an interleukin-7 receptor antagonist used to manage chronic obstructive pulmonary disease (COPD) and asthma in some situations. It may be beneficial since she has sleep apnea. This makes the case for including it as part of the management plan. * C) discontinue tiotropium and start dupilumab: This is a plausible strategy, given her frequent exacerbations and steroid reliance. Dupiliarm is a biologic which is typically effective for asthma and COPD and will address both her inflammatory response and potential airway obstruction of sleep apnea to make her breath easier * D) maintain medications and add prednisone 5 mg per day, permanently: Adding prednisone 5mg/day is an option but isn't the primary focus considering she is needing additional corticosteroids. * E) discontinue all inhaled medications and start triple inhaled therapy in a single device: This will be a drastic approach compared to keeping current medication regimen in place. Reasoning for the Correct Choice: The patient presents with a complex situation requiring multi-faceted treatment based on allergen control, inflammation, sleep apnea, asthma exacerbations, potential COPD influences and antibiotic sensitivity.. Dupilumab addresses her inflammatory pathway specifically. With a history of acute asthma attacks, including emergency room visits suggesting significant challenge to airflow, adding this is strategic. The key considerations are managing and reducing the patient's challenges with asthma. Therefore, the best answer is (B) Maintaining Medications, Adding Benralizumab."
+  },
+  {
+    "PROMPT": 28,
+    "chosen_letter": "c",
+    "explanation": "The correct option is (c). Let's break it down: * Salmetreol: Short-acting beta 2-agonist – This describes a type of bronchodilator. Therefore, **T**. * Glycopyrronium bromide: Short-acting antimuscarinic – This also describes a type of bronchodilators. Therefore, **F**. * Umeclidinium: Long-acting beta 2-agonist – This is a long-acting type of bronchodilator. Therefore, **T**. * Indacaterol: Long- Acting antimuscarinic - This describes a type of bronchodilators. Therefore, **F**. Therefore, the correct sequence is: F-T-T-F"
+  },
+  {
+    "PROMPT": 29,
+    "chosen_letter": "A",
+    "explanation": "The answer is **(A) Alone I and II.** Let's break this down: * Statement I: This aligns perfectly with the currently recommended practice for spirometer diagnosis - a positive bronchodilatory test means an increased FEV1 (Functional Forced Exhalation Volume achieved) that exceeds a certain threshold (200 ml). * Statement II: This is extremely important. It’s crucial for managing asthma by consistently controlling environmental factors – vaccination, influenza & pneumococcal shots, and prescribing corticosteroids. Why the other options are incorrect: * B): Only II and III. While this *implies* a potential connection to the first statement of the question, it is not an entirely accurate summary. * C): Only III and IV. The question asks for one correct answer based on the provided statements. I and II address crucial elements of asthma management that directly support the recommendations made in statement II. * D): Only I, II and III: Statement I can be part of strategy for diagnosis as well. Therefore, only statements I and II represent essential components or guidelines within established practices related to asthma management."
+  },
+  {
+    "PROMPT": 30,
+    "chosen_letter": "B",
+    "explanation": "The statements regarding biologics in severe asthma – I and II – provide consistent evidence suggesting efficacy regarding a significant number of patients with severe conditions."
+  }
+]

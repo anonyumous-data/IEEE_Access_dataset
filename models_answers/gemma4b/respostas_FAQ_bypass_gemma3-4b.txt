@@ -1,0 +1,614 @@
+MODO: BYPASS
+MODELO: gemma3-4b
+TOTAL DE PROMPTS: 30
+TEMPO TOTAL DE EXECUÇÃO: 146.59s
+====================================================================================================
+
+PROMPT 1:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 16 – What is the main difference between severe asthma and uncontrolled asthma, according to current guidelines?
+A) Uncontrolled asthma occurs only in patients who do not use any type of treatment.
+B) Severe asthma is defined exclusively by the presence of frequent exacerbations and the need for hospitalization.
+C) Severe asthma persists with symptoms and increased risk despite optimized treatment use, while uncontrolled asthma may be associated with poor adherence or inadequate treatment.
+D) Severe asthma is always a temporary and self-limited condition, unlike uncontrolled asthma.
+E) The two conditions are the same.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "Current asthma guidelines differentiate severe asthma from uncontrolled asthma based on persistent symptoms and increased risk *despite* optimized treatment. Uncontrolled asthma is often linked to factors like poor adherence or inadequate initial treatment. Option C accurately reflects this core distinction, highlighting the continued presence of significant symptoms and exacerbation risk in severe asthma, even with appropriate medication management. The other options present inaccurate or overly simplistic views of the conditions."
+}
+```
+
+TEMPO DE GERAÇÃO: 18.54s
+====================================================================================================
+
+PROMPT 2:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 21 – Regarding the updates in GINA 2025 for asthma management, select the correct alternative.
+A) GINA 2025 again recommended the isolated use of SABA for patients with mild asthma, without the need for inhaled corticosteroids.
+B) The use of biologic therapies became indicated for all patients with persistent asthma, regardless of phenotype.
+C) GINA 2025 reinforces that the combination of formoterol + inhaled corticosteroid can be used both as maintenance treatment and as relief in mild to moderate asthma.
+D) Monitoring of lung function became unnecessary in patients stable for more than 12 months.
+E) Stepped treatment was replaced by a uniform treatment model for all patients with asthma.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "GINA 2025 significantly shifted towards emphasizing the combination of formoterol and inhaled corticosteroids (ICS) as both maintenance and reliever therapy for mild to moderate asthma, particularly when used in conjunction with an ICS. This is a core update compared to previous guidelines. Lets look at why the other options are incorrect:\n\nA) Isolated SABAs were strongly discouraged due to the risk of exacerbations.\nB) Biologics remain targeted towards specific phenotypes and are not indicated for all persistent asthma patients.\n D) Lung function monitoring remains an important part of asthma management, especially during changes in treatment or when assessing disease control.\nE) Stepped care is still utilized but with refinements based on patient characteristics. GINA 2025 has moved toward a more flexible approach."
+}
+```
+
+TEMPO DE GERAÇÃO: 4.30s
+====================================================================================================
+
+PROMPT 3:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 19 – Regarding Occupational Asthma (OA), it is correct to state that:
+A) The intensity of exposure is not an important risk factor for the development of OA.
+B) Smoking is considered a protective factor.
+C) Exhaled Nitric Oxide (FeNO) has a well-established role in the diagnosis of OA.
+D) The benefit of reducing the level of exposure is equivalent to complete removal from exposure to the causative agent.
+E) When an individual becomes sensitized to an occupational agent, even low levels of exposure (within legally permitted limits) can trigger severe bronchospasm
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "Regarding Occupational Asthma (OA), option C is the most accurate statement. Exhaled Nitric Oxide (FeNO) measurements are a well-established tool used in diagnosing and monitoring OA, as it reflects airway inflammation. Lets look at why the other options are incorrect:\n\nA) Exposure intensity *is* a crucial risk factor - higher exposure generally leads to increased risk.\n\nB) Smoking is actually a *risk factor*, not protective, for OA.\n\nD) Reducing exposure doesnt guarantee complete protection; some residual risk often remains.\n\nE) This accurately describes the mechanism of OA – even low levels can trigger symptoms in sensitized individuals. FeNO provides objective evidence of this ongoing inflammation."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.89s
+====================================================================================================
+
+PROMPT 4:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 29 – Asthma is a noncommunicable respiratory disease that affects about 350 million people worldwide. Regarding the endotypes and phenotypes of asthma, it is INCORRECT to state that:
+A) Asthma with a Th2-high phenotype was first based on atopic predisposition in combination with any of the following biomarkers for Th2 immune activation: serum immunoglobulin E (IgE) ≥100 IU/mL, blood eosinophil count ≥300/μL and
+B) T2 immune responses include IgE- and allergen-mediated hypersensitivity, chemotaxis of mast cells, eosinophils and basophils, and remodeling of the airway epithelium.
+C) The late-onset eosinophilic asthma phenotype usually begins in adulthood, occurs mainly through a T2 inflammatory response, affecting a significant proportion of elderly patients, usually a more severe disease, with lower lung function, increased eosinophils in blood and sputum.
+D) T2-low asthma is characterized by activation of non-T2 inflammatory pathways, with symptom onset in adulthood, and is often associated with obesity, cigarette smoke exposure, lower bronchodilator reversibility.
+E) The asthma phenotype associated with the elderly has no direct relationship with changes in lung structure present in elderly patients, such as airway narrowing, reduced lung compliance or alveolar dilation.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "E",
+  "explanation": "Option E is incorrect because it states that the asthma phenotype associated with the elderly has no direct relationship with changes in lung structure observed in older adults (airway narrowing, reduced lung compliance, alveolar dilation). This directly contradicts established knowledge about how asthma manifests and progresses in aging populations. The other options accurately describe various aspects of asthma endotypes and phenotypes based on current scientific understanding."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.01s
+====================================================================================================
+
+PROMPT 5:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 35 Asthma is a disease characterized by episodes of airway obstruction and increased airway responsiveness, accompanied by an inflammatory reaction. Asthma is one of the most common chronic diseases associated with morbidity and mortality. Regarding asthma, select the correct statement.
+(A) A significant proportion of asthma heritability is related to atopy, which is a genetic tendency to produce specific IgA in response to allergens.
+(B) The inflammatory infiltrate is basically composed of neutrophils. The infiltrate of eosinophils and mast cells is seen in more severe disease.
+(C) Greater airway thickness has no relationship with asthma severity, as it is a universal finding due to inflammatory attacks.
+(D) One of the possible causes of severe bronchospasm may be mediated by decreased local nitric oxide levels, which is frequently documented.
+(E) Type 2 inflammatory reaction, associated with interleukins 4, 5 and 13, is the most common form of stimulus for increased bronchial reactivity.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "E",
+  "explanation": "The correct answer is (E) because it accurately describes the primary mechanism driving asthma. Type 2 inflammation, driven by cytokines like IL-4, IL-5, and IL-13, is overwhelmingly considered the most common trigger for increased bronchial reactivity in asthma patients. This involves eosinophil activation, mast cell degranulation, and ultimately, airway hyperresponsiveness.  Lets look at why other options are incorrect:\n\n*   **(A)** While atopy plays a role, it’s not the *primary* mechanism of airway obstruction and responsiveness.\n*   **(B)** Neutrophils are less common in asthma inflammation than eosinophils and mast cells; their presence is usually associated with more severe or specific conditions.\n*   **(C)** Airway thickness *is* strongly correlated with asthma severity – it’s a key pathological feature.\n*   **(D)** Decreased nitric oxide levels can contribute, but the type 2 inflammatory response (E) is the dominant driver."
+}
+```
+
+TEMPO DE GERAÇÃO: 4.75s
+====================================================================================================
+
+PROMPT 6:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 36. Female patient, 20 years old, diagnosed with asthma, uses salbutamol spray when she feels short of breath, and improves, but lately has been having shortness of breath at rest and on minimal exertion, even using salbutamol spray 5x/day. She reports that 1 year ago she had a severe asthma attack and was taken to the emergency room and was admitted to the ICU and intubated. She is a smoker, 5 pack-years, but stopped 1 week ago because her shortness of breath worsened. Select the correct alternative.
+(A) This patient should receive a prescription for formoterol and budesonide, salbutamol spray as a rescue drug, and be referred for spirometry, advised to continue not smoking. And return when the test is ready.
+(B) This patient should be referred for treatment in the emergency room. And advised to carry out treatment properly.
+(C) She should be vaccinated (against COVID-19, H1N1 and pneumonia), buy a pulse oximeter to monitor O2 saturation (a warning sign for her), and use formoterol 12 mcg and budesonide 400 mcg 3x/day, salbutamol spray as rescue during attacks.
+(D) She should receive guidance on the severity of her disease, although the clinical picture she had (ICU admission) is unlikely to occur again.
+(E) If necessary at first, this patient should undergo endotracheal intubation (mechanical ventilation), even without altered level of consciousness.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "This patient presents with a history of severe asthma, recent ICU admission requiring intubation, and ongoing symptoms despite using salbutamol frequently. The key elements that point to a more complex management plan are: \n\n*   **History of Severe Asthma:** The prior ICU admission indicates significant airway obstruction and likely inflammation.\n*   **Current Symptoms:** Shortness of breath at rest and with minimal exertion, coupled with frequent salbutamol use, suggests inadequate control of her asthma.  The fact that she stopped smoking recently is also a critical factor.\n*   **Need for Long-Term Controller Medication:** Given the severity of her history and ongoing symptoms, she needs an inhaled corticosteroid (ICS) in addition to a bronchodilator. Formoterol/budesonide provides both long-term control and rescue options.\n\nOption (C) directly addresses these issues with appropriate medication (formoterol/budesonide), ongoing salbutamol use, and advises monitoring via pulse oximetry – all critical steps in managing this patient’s complex asthma. \n\nLets look at why the other options are less suitable:\n\n*   **(A):** While spirometry is important, it doesnt address the immediate need for controller medication.\n*   **(B):**  The patient isnt currently presenting with an acute crisis; referral to the emergency room without a clear indication would be inappropriate.\n*   **(D):** Guidance on disease severity is helpful but secondary to initiating appropriate treatment.\n*   **(E):** Intubation should only be considered as a last resort, and given her recent smoking cessation, it’s highly unlikely she needs immediate re-intubation. "
+}
+```
+
+TEMPO DE GERAÇÃO: 6.73s
+====================================================================================================
+
+PROMPT 7:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 37. Male patient, professional athlete, with asthma, presented, in the last 4 weeks, daytime symptoms 2x/week. He has no limitation for his daily activities, needs relief medication 2x/week. Select the correct alternative.
+(A) The patients asthma is partially controlled.
+(B) The patients asthma is controlled, as it does not interfere with his daily activities.
+(C) The patient has uncontrolled asthma.
+(D) This patient may use only relief medication (salbutamol spray).
+(E) This patient should use inhaled corticosteroid and salbutamol spray; if necessary, suspend his training until the next spirometry.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "A",
+  "explanation": "The patient presents with symptoms occurring twice a week, requiring medication twice a week for relief. While he has no activity limitations, this indicates that his asthma isnt fully under control. Option B is too optimistic given the ongoing symptom frequency and need for rescue medication. Options C and D are incorrect as the symptoms are present and the patient requires medication. Option E suggests an overly aggressive intervention without sufficient information regarding the severity of the asthma."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.14s
+====================================================================================================
+
+PROMPT 8:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 43. Select the correct alternative.
+(A) Occupational asthma and work-related asthma are the same disease.
+(B) Individuals whose professional activity involves high-molecular-weight agents do not develop work-related asthma.
+(C) The incidence and prevalence of occupational asthma do not depend on genetic predisposition.
+(D) In adult patients with asthma initiated or worsened during work, the diagnosis of work-related asthma should be considered.
+(E) The treatment of occupational asthma is similar to non-occupational asthma. But measurement of IgE in nasal secretion, which should be monitored in these patients, drops drastically within a few days after removal from the causative agent.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "D",
+  "explanation": "Option (D) is the most accurate and clinically relevant statement regarding occupational asthma. It correctly highlights the diagnostic approach – that in adult patients with asthma onset or exacerbation linked to work, suspicion of work-related asthma should be raised. The other options contain inaccuracies: (A) Occupational asthma and work-related asthma are distinct concepts; (B) High molecular weight agents are a significant risk factor; (C) Genetic predisposition *does* play a role; and (E) While treatments can often overlap, the IgE response is a key differentiating feature."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.38s
+====================================================================================================
+
+PROMPT 9:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 43. Regarding the diagnosis of asthma, select the correct alternative:
+A) Peak expiratory flow is an essential method for monitoring, but not for initial diagnosis.
+B) The reversibility test with bronchodilators is used to identify irreversible airway obstruction.
+C) Spirometry confirms the diagnosis only in asymptomatic patients.
+D) The diagnosis of asthma is confirmed only by the presence of wheezing on physical examination.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "B",
+  "explanation": "The reversibility test with bronchodilators (like albuterol) is a cornerstone in diagnosing asthma. Asthma is characterized by reversible airway obstruction, meaning that breathing tests show improvement after the administration of a medication that relaxes the muscles around the airways. Options A, C, and D are incorrect because they either misrepresent the role of monitoring, focus solely on symptom presentation (asymptomatic patients), or rely on a single finding (wheezing) which isnt sufficient for diagnosis."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.19s
+====================================================================================================
+
+PROMPT 10:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 48) Male patient, 44 years old, reports a diagnosis of severe asthma in 2017. On the day of the consultation, he complained of cough, mainly at night, dyspnea on exertion, such as tidying up the house, rhinorrhea and diffuse wheezing, even while using inhaled formoterol and budesonide 1x/day. PMH: Denies asthma in childhood. Diagnosis of chronic rhinitis and sinusitis, using nasal budesonide 32 mcg, 1 spray in each nostril as needed. Allergens: Reports allergy to mold and dust. SH: Former smoker for 10 years, 20 pack-years. Has 3 cats and 2 dogs at home. Caregiver. FH: Mother with asthma, in addition to sister, 2 paternal uncles, grandmother and cousins. Is the diagnosis of severe asthma correct in this patient?
+a) Yes, because he is very symptomatic.
+b) No, because this definition is retrospective.
+c) Yes, because he has untreated comorbidities.
+d) No, because the patient is in contact with allergens.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "a",
+  "explanation": "The patient presents with significant symptoms of severe asthma – cough at night, dyspnea on exertion, wheezing, and rhinorrhea – despite using inhaled corticosteroids (formoterol and budesonide). His family history includes multiple affected relatives, and a prior smoking history further supports the diagnosis. While its retrospective, the *severity* of his symptoms warrants the severe asthma designation based on current diagnostic criteria (which often consider symptom burden alongside other factors) rather than just the date of initial diagnosis. The allergen exposure and comorbidities are contributing factors to his presentation but don’t negate the severity of the asthma itself."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.61s
+====================================================================================================
+
+PROMPT 11:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 49) Male patient, 44 years old, reports a diagnosis of severe asthma in 2017. On the day of the consultation, he complained of cough, mainly at night, dyspnea on exertion, such as tidying up the house, rhinorrhea and diffuse wheezing, even while using inhaled formoterol and budesonide 1x/day. PMH: Denies asthma in childhood. Diagnosis of chronic rhinitis and sinusitis, using nasal budesonide 32 mcg, 1 spray in each nostril as needed. Allergens: Reports allergy to mold and dust. SH: Former smoker for 10 years, 20 pack-years. Has 3 cats and 2 dogs at home. Caregiver. FH: Mother with asthma, in addition to sister, 2 paternal uncles, grandmother and cousins. What is the main differential diagnosis of asthma in this patient?
+a) Bronchiectasis.
+b) Bronchial obstruction.
+c) PE (pulmonary thromboembolism).
+d) COPD (Chronic Obstructive Pulmonary Disease).
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "b",
+  "explanation": "Given the patients presentation – severe asthma diagnosis in 2017, nocturnal cough and dyspnea with exertion, wheezing despite inhaled corticosteroids (formoterol and budesonide), history of smoking, family history of asthma, and environmental allergens – Bronchial obstruction is the most likely differential diagnosis. The diffuse wheezing and response to bronchodilators strongly suggest airway narrowing or obstruction, a hallmark of asthma.  \n\nLet’s look at why other options are less likely:\n\n*   **a) Bronchiectasis:** While chronic cough can be present in bronchiectasis, the patients response to inhaled corticosteroids and the history of asthma make this less probable. Bronchiectasis is typically associated with persistent productive cough and often a prior infection.\n*   **c) PE (pulmonary thromboembolism):**  PE presents with acute dyspnea, chest pain, and tachycardia. While it can be considered in some cases, the chronic nature of his symptoms and existing asthma diagnosis point away from this as the primary concern.\n*   **d) COPD (Chronic Obstructive Pulmonary Disease):** The patient is only 44 years old, and while smoking history raises suspicion for COPD, his age and rapid onset of symptoms are more consistent with an exacerbation of asthma. Also, the treatment with inhaled corticosteroids makes COPD less likely.",
+  "question_number": 49
+}
+```
+
+TEMPO DE GERAÇÃO: 5.85s
+====================================================================================================
+
+PROMPT 12:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 50) Male patient, 44 years old, reports a diagnosis of severe asthma in 2017. On the day of the consultation, he complained of cough, mainly at night, dyspnea on exertion, such as tidying up the house, rhinorrhea and diffuse wheezing, even while using inhaled formoterol and budesonide 1x/day. PMH: Denies asthma in childhood. Diagnosis of chronic rhinitis and sinusitis, using nasal budesonide 32 mcg, 1 spray in each nostril as needed. Allergens: Reports allergy to mold and dust. SH: Former smoker for 10 years, 20 pack-years. Has 3 cats and 2 dogs at home. Caregiver. FH: Mother with asthma, in addition to sister, 2 paternal uncles, grandmother and cousins. Regarding the meanings associated with mild to moderate diffuse bronchial wall thickening in a patient with asthma, indicate true (T) or false (F) for the statements below, and then select the option that presents the correct sequence.
+( ) Indicates an acute phase of inflammation.
+( ) May indicate a greater risk of airway remodeling.
+( ) Is usually present in more advanced phases of the disease.
+( ) The bronchi are thickened by the combination of edema and a reduction in the amount of smooth muscle and in the size of mucous glands.
+a) (F); (F); (F); (T).
+b) (F); (T); (T); (F).
+c) (T); (T); (F); (F).
+d) (T); (F); (T); (F).
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "d",
+  "explanation": "Lets break down each statement in relation to diffuse bronchial wall thickening in a patient with asthma, considering the provided clinical information:\n\n*   **( ) Indicates an acute phase of inflammation. (T)** – While airway thickening can *occur* during an acute asthma exacerbation, it’s not solely indicative of the immediate, active inflammatory response. The thickening observed is more likely representing structural changes developing over time.\n*   **( ) May indicate a greater risk of airway remodeling. (F)** – Diffuse bronchial wall thickening represents *established* airway remodeling rather than predicting future remodeling. Remodeling is the ongoing process where the airways change structure due to chronic inflammation, which leads to permanent alterations.\n*   **( ) Is usually present in more advanced phases of the disease. (T)** – In this case, its a sign that the asthma has been present for an extended period and is now showing structural changes.\n*   **( ) The bronchi are thickened by the combination of edema and a reduction in the amount of smooth muscle and in the size of mucous glands. (F)** - While edema can be involved, the primary cause of bronchial wall thickening involves chronic inflammation leading to fibrosis and loss of smooth muscle and mucus gland atrophy rather than simple edema."
+}
+```
+
+TEMPO DE GERAÇÃO: 5.43s
+====================================================================================================
+
+PROMPT 13:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 51) Male patient, 44 years old, reports a diagnosis of severe asthma in 2017. On the day of the consultation, he complained of cough, mainly at night, dyspnea on exertion, such as tidying up the house, rhinorrhea and diffuse wheezing, even while using inhaled formoterol and budesonide 1x/day. PMH: Denies asthma in childhood. Diagnosis of chronic rhinitis and sinusitis, using nasal budesonide 32 mcg, 1 spray in each nostril as needed. Allergens: Reports allergy to mold and dust. SH: Former smoker for 10 years, 20 pack-years. Has 3 cats and 2 dogs at home. Caregiver. FH: Mother with asthma, in addition to sister, 2 paternal uncles, grandmother and cousins. This patient has a total IgE of 395.8 IU/mL and blood eosinophilia of 1000/mm3. At this time, is he eligible to receive biologics?
+a) Yes, because he has a diagnosis of severe asthma.
+b) No, because we do not have the sputum eosinophilia measurement.
+c) Yes, because the tests identify severe asthma that is difficult to control.
+d) No, because he still does not use high-dose inhaled corticosteroid.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "c",
+  "explanation": "The patient presents with a complex asthma case characterized by significant symptoms (cough, dyspnea, wheezing), a history of severe asthma diagnosed in 2017 despite no childhood asthma, elevated IgE levels (395.8 IU/mL), and blood eosinophilia (1000/mm3).  The fact that hes still struggling with symptoms despite using inhaled corticosteroids suggests his asthma is difficult to control - a key criteria for biologic therapy consideration. Option C accurately reflects this diagnostic interpretation of the case based on current guidelines which recommend biologics for patients with severe asthma who are not adequately controlled on standard therapies (ICS/LABA). The other options are irrelevant or misinterpret the clinical picture.  Sputum eosinophilia isnt typically a primary factor in decision-making regarding biologic therapy, and simply using inhaled corticosteroids doesn’t automatically exclude them."
+}
+```
+
+TEMPO DE GERAÇÃO: 4.42s
+====================================================================================================
+
+PROMPT 14:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 52) Match the potential predictors of good response to the respective biologics currently available for severe asthma. Consider that the same predictor may be associated with more than one biologic.
+Predictors of good response Biologics
+(1) Childhood-onset asthma and clinical history suggesting allergen-induced symptoms
+(2) Blood eosinophilia, adult-onset asthma and nasal polyps
+(3) Blood eosinophilia and elevated FeNO
+( ) Anti-IgE (omalizumab)
+( ) Anti-IL5 (mepolizumab) or Anti- (benralizumab)
+( ) Anti-
+( ) Anti-TSLP (tezepelumab)
+The correct sequence of this association is:
+a) (2); (1); (3); (1).
+b) (3); (1); (2); (3).
+c) (1); (2); (3); (3).
+d) (2); (3); (1); (2).
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "b",
+  "explanation": "Lets break down why option (b) is the correct answer:\n\n* **(2) Blood eosinophilia, adult-onset asthma and nasal polyps:** This profile strongly suggests a Th2-mediated immune response, making anti-IL5 therapies like mepolizumab or benralizumab highly effective. Benralizumab specifically targets IL-5.\n* **(1) Childhood-onset asthma and clinical history suggesting allergen-induced symptoms:**  This indicates a strong IgE-driven allergic component, ideal for targeting with omalizumab (anti-IgE).\n* **(3) Blood eosinophilia and elevated FeNO:** Elevated FeNO (Fraction of exhaled Nitrogen) is a marker of airway inflammation and bronchial hyperreactivity often associated with a Th2 response.  This aligns well with anti-IL5 treatments.\n* **(1) Childhood-onset asthma and clinical history suggesting allergen-induced symptoms**: This indicates a strong IgE-driven allergic component, ideal for targeting with omalizumab (anti-IgE).\n\nTherefore, the correct sequence is: Anti-IL5/Benralizumab -> Anti-IgE -> Anti-IL5/Benralizumab -> Anti-TSLP.  Option (b) reflects this.\n"
+}
+```
+
+TEMPO DE GERAÇÃO: 5.49s
+====================================================================================================
+
+PROMPT 15:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 29 Respiratory tract infections can have distinct pathophysiological spectra (viral, bacterial, polymicrobial infections, infections of an adjacent organ with pulmonary repercussions) and the pulmonologist must know how to grade severity, anatomical extent and appropriate therapeutic indication. On this subject, analyze the following statements.
+I. In community-acquired pneumonias, the use of biomarkers such as procalcitonin can help reduce unnecessary antibiotic use, especially in viral cases, when used together with clinical and radiological evaluation.
+II. In acute bronchitis in a patient without COPD, without persistent fever and without tachycardia/systemic manifestations, empirical antibiotic use is considered the gold standard for preventing progression to pneumonia.
+III. Respiratory viral infections can trigger exacerbation of previous chronic diseases of the airways and lung parenchyma, including asthma and COPD, even in the absence of secondary bacterial infection.
+Select the alternative that presents only the CORRECT statements.
+(A) I, II and III.
+(B) I.
+(C) I and III.
+(D) II.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "A",
+  "explanation": "All three statements (I, II, and III) are accurate reflections of current pulmonology practice and understanding regarding respiratory tract infections. Lets break down why:\n\n*   **Statement I:** Procalcitonin biomarkers *are* increasingly used to differentiate viral from bacterial pneumonia, reducing unnecessary antibiotic use in viral cases when combined with clinical and imaging findings.\n*   **Statement II:** While empirical antibiotics are sometimes used for acute bronchitis, the statement that they represent the gold standard is an oversimplification and not entirely accurate. Current guidelines generally discourage routine antibiotic use without evidence of bacterial infection or co-morbidities.\n*   **Statement III:** Viral infections *absolutely* can trigger exacerbations in chronic lung diseases like asthma and COPD, even without a secondary bacterial infection – this is a well-established phenomenon.",
+  "question_number": 29
+}
+```
+
+TEMPO DE GERAÇÃO: 4.40s
+====================================================================================================
+
+PROMPT 16:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 34 Childhood asthma is a chronic inflammatory disease of the airways characterized by bronchial hyperresponsiveness, reversible airflow obstruction and recurrent episodes of wheezing, cough and dyspnea. Diagnosis and management depend on detailed clinical evaluation, functional tests and long-term control strategies. Considering pathophysiology, risk factors and management of asthma in children, analyze the following statements and select the true one.
+(A) Regular use of inhaled corticosteroids in children with moderate to severe persistent asthma reduces airway inflammation and prevents exacerbations.
+(B) Childhood asthma is predominantly caused by bacterial infections, and eosinophilic inflammation is irrelevant for disease severity and monitoring.
+(C) Environmental control and allergen avoidance do not impact the frequency or severity of symptoms in asthmatic children.
+(D) Lung function measured by spirometry is only useful in adults and has no utility in children with suspected asthma, and may be ignored in clinical follow-up.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "A",
+  "explanation": "Statement (A) accurately reflects current best practices in childhood asthma management. Inhaled corticosteroids (ICS) are a cornerstone of treatment for moderate to severe persistent asthma, effectively reducing airway inflammation – the underlying cause of symptoms – and thus preventing exacerbations (asthma attacks). The other statements contain inaccuracies:\n\n*   **(B)**: Asthma is *not* predominantly caused by bacterial infections. While infections can trigger asthma, eosinophilic inflammation (the presence of white blood cells called eosinophils) is a key inflammatory component driving the disease.\n*   **(C)**: Environmental control and allergen avoidance are *crucial* for managing asthma in children, significantly impacting symptom frequency and severity.\n*   **(D)**: Spirometry is a vital diagnostic tool and routinely used in children with suspected asthma, providing valuable information about lung function.  Its not something to be ignored."
+}
+```
+
+TEMPO DE GERAÇÃO: 4.35s
+====================================================================================================
+
+PROMPT 17:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 35. Asthma is the most frequent chronic disease in childhood in all countries worldwide. Analyze the statements below regarding its diagnosis:
+1. In children, spirometry, measurement of bronchial hyperresponsiveness (BHR) and tests that measure inflammation in the lower airways aid in the diagnosis of asthma.
+2. Spirometry before and after bronchodilator (BD) use should be routinely performed in all children with suspected asthma.
+3. Allergy evaluation by total IgE measurement, immediate-reading skin tests or serum specific IgE can determine whether one or more allergens are involved in the pathophysiology of asthma.
+4. These characteristics or manifestations can occur in mild, moderate and severe attacks (exacerbations) and manifest intermittently or persistently (between attacks).
+Select the alternative that indicates all correct statements.
+a. Only statements 1, 2 and 3 are correct.
+b. Only statements 1, 2 and 4 are correct.
+c. Only statements 1, 3 and 4 are correct.
+d. Only statements 2, 3 and 4 are correct.
+e. Statements 1, 2, 3 and 4 are correct.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "e",
+  "explanation": "All four statements (1, 2, 3, and 4) accurately describe key aspects of asthma diagnosis in children. Statement 1 correctly outlines diagnostic tools like spirometry, BHR testing, and inflammation measures. Statement 2 emphasizes the standard protocol of pre- and post-bronchodilator spirometry. Statement 3 details the role of allergy evaluation methods. And finally, statement 4 accurately portrays the variability and intermittent nature of asthma attacks.",
+  "original_question": "Asthma is the most frequent chronic disease in childhood in all countries worldwide. Analyze the statements below regarding its diagnosis:\n1. In children, spirometry, measurement of bronchial hyperresponsiveness (BHR) and tests that measure inflammation in the lower airways aid in the diagnosis of asthma.\n2. Spirometry before and after bronchodilator (BD) use should be routinely performed in all children with suspected asthma.\n3. Allergy evaluation by total IgE measurement, immediate-reading skin tests or serum specific IgE can determine whether one or more allergens are involved in the pathophysiology of asthma.\n4. These characteristics or manifestations can occur in mild, moderate and severe attacks (exacerbations) and manifest intermittently or persistently (between attacks)."
+}
+```
+
+TEMPO DE GERAÇÃO: 5.30s
+====================================================================================================
+
+PROMPT 18:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 34 The Global Strategy for Asthma Management and Prevention (GINA) recommends the use of biologics in severe asthma. Recently, some of these biologics have been incorporated into the SUS (Unified Health System). Select the option that indicates the biologic recommended by GINA for severe eosinophilic asthma.
+(A) Secukinumab.
+(B) Omalizumab.
+(C) Tezepelumab.
+(D) Tocilizumab.
+(E) Mepolizumab.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "D",
+  "explanation": "The Global Asthma Strategy (GINA) recommends Tocilizumab for severe eosinophilic asthma. Tocilizumab is a IL-6 receptor antagonist that targets inflammation, which is central to the pathogenesis of this type of asthma. Omalizumab, Mepolizumab and Secukinumab are used in other conditions but not specifically recommended by GINA as first line treatments for severe eosinophilic asthma. Tezepelumab has broader anti-TSLP activity, which isnt the primary focus of the GINA recommendations for eosinophilic asthma."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.34s
+====================================================================================================
+
+PROMPT 19:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 44 A 36-year-old patient with asthma presents characteristic asthma symptoms 2x/week, in addition to exacerbations 3x/year. According to the latest version of the Global Strategy for Asthma Management and Prevention (GINA, 2023), select the option that presents the most appropriate therapeutic approach.
+(A) Salbutamol as needed.
+(B) Formoterol/Budesonide every 12 hours and as needed in case of symptoms.
+(C) Formoterol/Budesonide every 12 hours, Tiotropium 1x/day, Salbutamol as needed.
+(D) Eosinophil and IgE measurement, refer for use of biologic.
+(E) Budesonide every 12 hours and as needed.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "According to the GINA 2023 guidelines, a patient with frequent asthma exacerbations (2x/week and 3x/year) requires step-up therapy. Option (C) represents this approach most appropriately. It combines a long-acting beta-agonist (LABA - Formoterol) and inhaled corticosteroid (ICS - Budesonide) for daily control, along with Tiotropium (a long-acting muscarinic antagonist - LAMA) for additional bronchodilation and Salbutamol as needed for symptom relief. This stepped approach acknowledges the patients significant symptoms and aims to achieve better control compared to monotherapy.\n\nHeres why the other options are less suitable:\n\n*   **(A)** Salbutamol alone is only for rescue therapy and insufficient for managing frequent exacerbations.\n*   **(B)** Formoterol/Budesonide every 12 hours as needed is a reasonable starting point, but doesnt include additional controller medication like Tiotropium. \n*   **(D)** Eosinophil and IgE measurements are useful for stratification of asthma severity, but not the initial therapeutic approach; referral to biologics would be later in the treatment course.\n*   **(E)** Budesonide every 12 hours as needed is a step-up therapy, however lacking the LABA component (Formoterol), making it less comprehensive than option C. "
+}
+```
+
+TEMPO DE GERAÇÃO: 5.88s
+====================================================================================================
+
+PROMPT 20:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 45 Asthma treatment aims to achieve and maintain current disease control, as well as prevent future risks. This implies a personalized approach, including, in addition to pharmacological treatment, patient education, a written action plan, training in the use of the inhaler device and review of inhalation technique at each visit. According to the Global Initiative for Asthma (GINA – 2021), asthma control can be divided into five steps, varying according to patient age. The preferred treatment for asthma control and rescue, in patients > 12 years of age, in Step 4 of the Global Initiative for Asthma (GINA – 2021), is:
+A) High dose of inhaled corticosteroid + long-acting β2-agonist + Tiotropium.
+B) Moderate dose of inhaled corticosteroid for control and short-acting β2-agonist for relief.
+C) Moderate dose of inhaled corticosteroid + Formoterol for control and low dose of inhaled corticosteroid + Formoterol for relief.
+D) Low dose of inhaled corticosteroid + long-acting β2-agonist + Montelukast for control and short-acting β2-agonist for relief.
+E) Moderate dose of inhaled corticosteroid + long-acting β2-agonist + Montelukast for control and low dose of inhaled corticosteroid + Formoterol for relief.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "A",
+  "explanation": "According to the Global Initiative for Asthma (GINA – 2021), in Step 4 asthma treatment for patients > 12 years of age, the preferred approach involves a combination of high-dose inhaled corticosteroid, long-acting β2-agonist, and Tiotropium. This represents the most comprehensive strategy for achieving and maintaining control, addressing both inflammation (corticosteroid) and bronchodyilation (β2-agonist), with Tiotropium adding an additional anticholinergic component to further reduce airway inflammation."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.46s
+====================================================================================================
+
+PROMPT 21:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 62 The advent of biologics has revolutionized the treatment of patients with severe refractory asthma. These agents act on different components of the inflammatory cascade; they are indicated for specific phenotypes. They are predictors of a good response to Anti-IL5/Anti-IL5R medications, EXCEPT:
+A) Eosinophilia.
+B) Nasal polyposis.
+C) Onset of asthma in adult life.
+D) Higher number of exacerbations in the last year.
+E) Ratio of forced expiratory volume in the first second / forced vital capacity < 50%.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "E",
+  "explanation": "Biologics, particularly those targeting IL-5 and IL-5R, are primarily effective in patients with eosinophilic asthma. While the other options (eosinophilia, nasal polyposis, adult onset, and exacerbations) are all indicators of a specific inflammatory phenotype that responds well to these medications, a ratio of FEV1/FVC < 50% represents significant fixed airflow obstruction which is not directly addressed by IL-5/IL-5R inhibitors.  These biologics aim to modify the *inflammatory* component – they arent designed to reverse underlying obstructive lung disease. Therefore, option E represents a situation where the response is unlikely to be predicted by anti-IL5/anti-IL5R medications."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.91s
+====================================================================================================
+
+PROMPT 22:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 70 The heterogeneous and complex nature of severe asthma signals different disease phenotypes, whose identification may represent an opportunity for successful targeted therapy. Given the above, it is correct to state that:
+A) The eosinophilic phenotype is the most common.
+B) The T2-low endotype corresponds to most cases of severe asthma.
+C) The paucigranulocytic phenotype is found in most treatment-naive asthmatics.
+D) IL-4 acts mainly by promoting remodeling of the smooth muscle of the airways.
+E) IL-13 has as its main role helping the recruitment, maturation and survival of eosinophils.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "B",
+  "explanation": "The passage highlights the diverse phenotypes within severe asthma and suggests targeting these differences could lead to successful therapies. Option B, stating that the T2-low endotype corresponds to most cases of severe asthma, directly aligns with this concept by identifying a significant and distinct phenotype within the complex landscape of severe asthma, providing a potential therapeutic target."
+  "options_assessment": {
+    "A": "While eosinophils are present in some asthma phenotypes, the passage doesnt indicate they are *most* common.",
+    "C": "The paucigranulocytic phenotype is more characteristic of mild asthma, not treatment-naive severe asthmatics.",
+    "D": "IL-4s role is primarily in promoting IgE production and Th2 responses, not direct smooth muscle remodeling.",
+    "E": "While IL-13 does contribute to eosinophil function, its primary roles are broader than just recruitment, maturation, and survival."
+  }
+}
+```
+
+TEMPO DE GERAÇÃO: 4.55s
+====================================================================================================
+
+PROMPT 23:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, Question 80 Occupational asthma is a disease defined by the presence of asthma symptoms and reversible airflow obstruction and/or bronchial hyperreactivity due to conditions attributable to the work environment. Regarding occupational asthma, select the INCORRECT statement.
+A) Smoking is a well-defined risk factor for some types of occupational asthma.
+B) Serial measurement of peak expiratory flow on spirometry is poorly specific for its diagnosis.
+C) The specific bronchial provocation test is considered the gold standard for the diagnosis of occupational asthma.
+D) Serial spirometric measurements of peak expiratory flow have high sensitivity for the diagnosis of occupational asthma.
+E) Occupational asthma due to sensitizers is more frequently associated with an eosinophilic phenotype than asthma aggravated or exacerbated by work.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "The incorrect statement is C). The specific bronchial provocation test *is* considered the gold standard for diagnosing occupational asthma. Options A, B, D and E are all accurate statements regarding risk factors, diagnostic tools, or characteristics of the condition. Option C misrepresents the established diagnostic approach."
+}
+```
+
+TEMPO DE GERAÇÃO: 2.68s
+====================================================================================================
+
+PROMPT 24:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 36. The statements below are correct, EXCEPT:
+A) Among the differential diagnoses of asthma in patients aged 12 to 39 years, we should consider Cystic Fibrosis and Alpha 1 Antitrypsin Deficiency.
+B) Among the differential diagnoses of asthma in patients aged 40 years or older, we should consider Pulmonary Thromboembolism and Vocal Cord Dysfunction.
+C) According to GINA 2023, for asthmatic adults and adolescents, in track 2, for step 1, the preferred recommendation is low-dose inhaled corticosteroid for daily use.
+D) According to GINA 2023, for asthmatic adults and adolescents, in track 1, for step 1, the preferred recommendation is the combination of low-dose inhaled corticosteroid and formoterol, used as needed.
+E) According to GINA 2023, for asthmatic adults and adolescents, in therapeutic pathways or tracks 1 and 2, the combination of LAMA (long-acting anticholinergics) is indicated only in step 5.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "C",
+  "explanation": "Statement C is incorrect. According to GINA 2023, for asthma in adults and adolescents (track 1 and 2), step 1 therapy typically involves a low-dose inhaled corticosteroid (ICS) *alone*, regardless of whether its combined with a long-acting beta-agonist (LABA).  The combination of ICS/LABA is recommended later in the treatment plan. Options A, B, and D accurately reflect GINA 2023 recommendations for differential diagnosis and initial therapy.",
+  "number": 36
+}
+```
+
+TEMPO DE GERAÇÃO: 3.48s
+====================================================================================================
+
+PROMPT 25:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 43) Regarding the use of inhaled corticosteroid therapy in Chronic Obstructive Pulmonary Disease (COPD), select the alternative that presents the main criteria indicating a favorable response to its use in combination with two bronchodilators (LABA+LAMA).
+a) Eosinophils 200 cells/L, asthma, one moderate or one severe attack in the previous year
+b) Eosinophils < 100 cells/L, asthma, two moderate or one severe attack in the previous year
+c) Eosinophils between 100 and < 300 cells/L, asthma, one moderate or severe attack in the previous year
+d) Eosinophils 300 cells/L, asthma, one moderate or severe attack in the previous year
+e) Eosinophils 300 cells/L, asthma, two moderate or one severe attack in the previous year
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "b",
+  "explanation": "Inhaled corticosteroids (ICS) are most effective in COPD patients with evidence of airway inflammation. Eosinophils < 100 cells/L is a key indicator of this inflammation, particularly when combined with LABA and LAMA bronchodilators. This level suggests a significant inflammatory component driving the disease process that ICS can effectively target.  The other options represent levels of eosinophil count which would not be associated with a favorable response to combination therapy in COPD.\n\nHeres why the other options are less suitable:\n*   **a)** Eosinophils 200 cells/L: Higher eosinophil counts are more common in asthma and dont necessarily indicate a strong inflammatory driver in COPD. \n*   **c)** Eosinophils between 100 and <300 cells/L: While this range indicates some inflammation, it is not the ideal level for ICS response. \n*   **d)** Eosinophils 300 cells/L: A high eosinophil count suggests a more significant inflammatory process, but the combination of LABA+LAMA should still be most effective in patients with lower counts.\n*   **e)** Eosinophils 300 cells/L: Same reasoning as above."
+}
+```
+
+TEMPO DE GERAÇÃO: 5.44s
+====================================================================================================
+
+PROMPT 26:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 52) The diagnosis of asthma in adults is made through the identification of clinical and functional criteria obtained from history, physical examination and pulmonary function tests. Regarding symptoms that increase the probability of the diagnosis, select the incorrect alternative.
+a) Chronic expectoration
+b) Symptoms are triggered by exposure to allergens, exercise, climate changes, laughing, crying or respiratory irritants such as smoke or strong odors
+c) Worsening of symptoms at night or in the morning
+d) Variation in symptom intensity over time
+e) Presence of wheezing, dyspnea, cough, fatigue on exertion and chest tightness
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "e",
+  "explanation": "While wheezing, dyspnea, cough, fatigue on exertion, and chest tightness are *hallmarks* of asthma, the statement Presence of wheezing, dyspnea, cough, fatigue on exertion and chest tightness is presented as an incorrect alternative regarding symptoms that *increase* the probability of a diagnosis.  The other options (a-d) all represent features that strongly support the likelihood of an asthma diagnosis based on clinical presentation and test results.  Specifically, the presence of wheezing, dyspnea, cough, fatigue on exertion and chest tightness are typically present when there is airway inflammation and constriction, which are hallmarks of Asthma."
+}
+```
+
+TEMPO DE GERAÇÃO: 3.66s
+====================================================================================================
+
+PROMPT 27:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 32 A 35-year-old woman with asthma, already followed for five years in a specialized outpatient clinic, presenting in the last two years asthma attacks requiring emergency room visits on two occasions, and in the last year she needed three courses of systemic corticosteroids. She has allergic rhinitis. Her regular medications: formoterol/budesonide 12/400 mcg, 1 puff every eight hours; tiotropium 5 mcg daily; salbutamol 2 puffs every 12 hours; montelukast sodium 10 mg once daily; nasal budesonide 100 mcg every twelve hours, after nasal irrigation with saline. She brought tests performed outside the crisis period, more than sixty days without systemic corticosteroid use, with normal blood count and IgE level of 453 IU/ml. Residential and workplace investigation was performed and was negative for antigen contact. Gastroesophageal reflux disease and sleep apnea were ruled out. Based on this hypothetical situation, regarding the management aimed at controlling this patients disease, select the correct alternative.
+(A) maintain medications, adding omalizumab
+(B) maintain medications, adding benralizumab
+(C) discontinue tiotropium and start dupilumab
+(D) maintain medications and add prednisone 5 mg per day, permanently
+(E) discontinue all inhaled medications and start triple inhaled therapy in a single device
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "A",
+  "explanation": "This patient presents with asthma exacerbations despite long-term treatment with a common inhaled corticosteroid/long-acting beta agonist (ICS/LABA) combination and other controller medications. Her IgE level is elevated, suggesting an allergic component to her asthma. While the recent history of ER visits and steroid use warrants attention, abruptly changing multiple therapies carries significant risks of worsening control.  Maintaining the current medication regimen – formoterol/budesonide (a potent ICS/LABA), tiotropium, salbutamol, montelukast, and nasal budesonide – represents a reasonable approach for now. Adding omalizumab is a sensible next step as it targets IgE and could address the underlying allergic sensitization driving her symptoms.  Lets break down why the other options are less appropriate: \n\n*   **(B) maintain medications, adding benralizumab:** Benralizumab is a monoclonal antibody that depletes eosinophils – a different mechanism than omalizumab. While useful in certain asthma phenotypes, it isnt typically first-line for this type of presentation.\n*   **(C) discontinue tiotropium and start dupilumab:** Discontinuing tiotropium without careful consideration could negatively impact lung function due to its bronchodilation effects. Dupilumab is a newer biologic targeting IL-4/IL-13, and while effective, its generally reserved for more severe asthma or specific phenotypes.\n*   **(D) maintain medications and add prednisone 5 mg per day, permanently:** Adding maintenance prednisone carries significant risks of side effects and doesnt address the underlying asthma control. It is not a sustainable long-term strategy.\n*   **(E) discontinue all inhaled medications and start triple inhaled therapy in a single device:** This approach is too aggressive and carries a high risk of inducing an acute asthma exacerbation."
+}
+```
+
+TEMPO DE GERAÇÃO: 7.03s
+====================================================================================================
+
+PROMPT 28:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, 58) Asthma treatment often involves the use of bronchodilator medications that act on different receptors in the airways. Regarding bronchodilators, analyze the statements below and give values True (T) or False (F).
+( ) Salmeterol is a short-acting beta 2-agonist bronchodilator.
+( ) Glycopyrronium bromide is a short-acting antimuscarinic bronchodilator.
+( ) Umeclidinium is a long-acting beta 2-agonist bronchodilator.
+( ) Indacaterol is a long-acting antimuscarinic bronchodilator.
+Select the alternative that presents the correct sequence from top to bottom:
+a) T - F - F - F
+b) F - F - F - F
+c) F - T - T - F
+d) T - F - T - T
+e) T - T - T - F
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "c",
+  "explanation": "Lets analyze each statement:\n\n*   **( ) Salmeterol is a short-acting beta 2-agonist bronchodilator.** – **True (T)**. Salmeterol belongs to the class of short-acting beta-2 agonists, commonly used to quickly open airways.\n*   **( ) Glycopyrronium bromide is a short-acting antimuscarinic bronchodilator.** – **True (T)**. Glycopyrronium bromide is an antimuscarinic agent, meaning it blocks the effects of acetylcholine in the airways.\n*   **( ) Umeclidinium is a long-acting beta 2-agonist bronchodilator.** – **True (T)**.  Umeclidinium is a long-acting beta-2 agonist, providing sustained bronchodilation.\n*   **( ) Indacaterol is a long-acting antimuscarinic bronchodilator.** – **False (F)**. Indacaterol is a long-acting beta-2 agonist, not an antimuscarinic agent.\n\nThe correct sequence reflecting these truths and falsehoods is T - T - T - F."
+}
+```
+
+TEMPO DE GERAÇÃO: 5.30s
+====================================================================================================
+
+PROMPT 29:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 15 – Analyze the statements below about asthma:
+I. For spirometric diagnosis, we consider a positive bronchodilator test when there is an increase in FEV1 of at least 200 ml and at least 7% of predicted.
+II. Environmental control measures, influenza and pneumococcal vaccination and use of inhaled corticosteroids are prescribed at all stages of asthma treatment.
+III. Before stepping up asthma treatment, it is recommended to review inhalation technique, treatment adherence and control of environmental exposure.
+IV. Emotional stress, nonsteroidal anti-inflammatory drugs, temperature changes and sinusopathy are not triggering factors for asthma exacerbation.
+Which are correct?
+A) Only I and II.
+B) Only II and III.
+C) Only III and IV.
+D) Only I, II and III.
+E) Only I, III and IV.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "E",
+  "explanation": "Lets analyze each statement:\n\n*   **I. Correct:** This accurately describes the criteria for a positive bronchodilator response in spirometry (a minimum 200 ml increase and at least 7% predicted FEV1 improvement).\n*   **II. Correct:** This correctly outlines standard asthma management strategies – environmental control, vaccination, and inhaled corticosteroids are vital across all treatment phases.\n*   **III. Correct:** Reviewing technique, adherence, and exposure control is a crucial step before escalating medication.\n*   **IV. Incorrect:** This statement is demonstrably false; emotional stress, NSAIDs, temperature changes, and sinus infections are *known* asthma triggers.\n\nTherefore, statements I, II, and III are correct. Option E represents the only choice that includes these three accurate statements."
+}
+```
+
+TEMPO DE GERAÇÃO: 4.35s
+====================================================================================================
+
+PROMPT 30:
+select one between A B C D or E to answer the following question, the answer must been in a json format with chosen_letter, explanation, QUESTION 35 – Analyze the statements below about biologics in severe asthma:
+I. Omalizumab, a humanized anti-IgE monoclonal antibody, reduced exacerbations by approximately 25% when compared with placebo.
+II. Mepolizumab inhibits the binding of Interleukin-5 to its receptors on eosinophils and is indicated in Brazil for the treatment of severe eosinophilic asthma with eosinophilia >400 cells/μL.
+III. Tezepelumab, due to its corticosteroid-sparing effect, is indicated for severe asthma, especially in patients who are chronic users of oral corticosteroids.
+Which are correct?
+A) Only I.
+B) Only II.
+C) Only I and II.
+D) Only I and III.
+E) I, II and III.
+
+RESPOSTA:
+```json
+{
+  "chosen_letter": "E",
+  "explanation": "All three statements (I, II, and III) accurately describe biologics used in the treatment of severe asthma. Statement I details the effectiveness of Omalizumab. Statement II correctly describes Mepolizumabs mechanism and its use in specific cases of severe eosinophilic asthma. Statement III explains Tezepelumabs action and indication for patients requiring high doses of corticosteroids."
+}
+```
+
+TEMPO DE GERAÇÃO: 2.97s
+====================================================================================================
+

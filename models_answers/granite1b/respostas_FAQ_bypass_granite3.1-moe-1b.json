@@ -1,0 +1,152 @@
+[
+  {
+    "PROMPT": 1,
+    "chosen_letter": "B",
+    "explanation": "According to current guidelines, severe asthma is defined as a chronic inflammatory disease of the airways characterized by frequent exacerbations and the need for hospitalization. It persists with symptoms even after optimal treatment has been used. Severe asthma also may be associated with poor adherence or inadequate treatment, making it a chronic condition that requires lifelong management. Uncontrolled asthma, on the other hand, is defined as managing the disease without significant improvement in symptoms despite optimal treatment use."
+  },
+  {
+    "PROMPT": 2,
+    "chosen_letter": "A",
+    "explanation": "The statement A is the correct choice as GINA 2025 indeed recommended the isolated use of SABA (short-acting beta-agonist) for patients with mild asthma, without the need for inhaled corticosteroids. This aligns with the updated recommendations for asthma management."
+  },
+  {
+    "PROMPT": 3,
+    "chosen_letter": "D",
+    "explanation": "This option is correct because the benefit of reducing the level of exposure is equivalent to complete removal from exposure to the causative agent. Sensitization to an occupational agent, even at low levels, can trigger severe bronchospasm."
+  },
+  {
+    "PROMPT": 4,
+    "chosen_letter": "A",
+    "explanation": "A) Asthma with a Th2-high phenotype was first based on atopic predisposition in combination with any of the following biomarkers for Th2 immune activation: serum immunoglobulin E (IgE) ≥100 IU/mL, blood eosinophil count ≥300/μL and"
+  },
+  {
+    "PROMPT": 5,
+    "chosen_letter": "C",
+    "explanation": "Asthma severity has a strong correlation with greater airway thickness due to inflammatory attacks. This is a universal finding in asthma, as explained by the interleukin (IL) system being involved in the process. The explanation for option A is incorrect because atopy does not directly cause heritability; rather, it's an underlying genetic predisposition that influences susceptibility to allergens."
+  },
+  {
+    "PROMPT": 6,
+    "chosen_letter": "C",
+    "explanation": "The patient has been experiencing shortness of breath at rest and on minimal exertion, which is a significant worsening from her previous symptoms (1 year ago severe asthma attack in the emergency room admission). She stopped smoking 1 week ago but continues to have shortness of breath despite using salbutamol spray. This suggests she has developed a more severe form of asthma or is not effectively managing her existing condition. Therefore, option C (She should be vaccinated, buy a pulse oximeter, and use formoterol 12 mcg and budesonide 400 mcg 3x/day, salbutamol spray as rescue during attacks) seems to address the most critical aspects of her care and management."
+  },
+  {
+    "PROMPT": 7,
+    "chosen_letter": "C",
+    "explanation": "The patient's asthma is uncontrolled (E) as it does not interfere with daily activities or require relief medication 2x/week."
+  },
+  {
+    "PROMPT": 8,
+    "chosen_letter": "C",
+    "explanation": "The incidence and prevalence of occupational asthma do not depend on genetic predisposition (B), individuals whose professional activity involves high-molecular-weight agents do not develop work-related asthma (A). The diagnosis of work-related asthma should be considered in adult patients with asthma initiated or worsened during work (E) and the treatment is similar to non-occupational asthma, but measurement of IgE in nasal secretion drops significantly within a few days after removal from the causative agent (C)."
+  },
+  {
+    "PROMPT": 9,
+    "chosen_letter": "E",
+    "explanation": "The correct alternative for selecting the best answer to this question would be 'E' - Diagnosis of asthma involves a combination of symptoms, physical examination findings, and sometimes specific tests such as peak expiratory flow (PEF), spirometry, and reversibility test with bronchodilators. Wheezing on physical examination is indeed one of the initial diagnostic steps in assessing asthma patients, but it does not confirm or diagnose the condition."
+  },
+  {
+    "PROMPT": 10,
+    "chosen_letter": "a",
+    "explanation": "The diagnosis of 'severe asthma' can be confirmed by the patient's symptoms, which include cough mainly at night, dyspnea on exertion such as tidying up the house, rhinorrhea (runny nose), and diffuse wheezing. The use of inhaled formoterol and budesonide 1x/day further supports this diagnosis. Although the patient denies asthma in childhood, his current presentation indicates severe asthma with untreated comorbidities such as chronic rhinitis and sinusitis. The presence of allergens (mold and dust) from the caregiver's home also supports this diagnosis."
+  },
+  {
+    "PROMPT": 11,
+    "chosen_letter": "B",
+    "explanation": "The main differential diagnosis of asthma in this patient is b) Bronchial obstruction. The symptoms mentioned, such as nighttime cough, dyspnea on exertion (difficulty breathing), rhinorrhea (runny nose), and diffuse wheezing, are common features of bronchial obstruction. Chronic rhinitis and sinusitis do not explain the severe asthma symptoms described in this patient. The allergens reported include mold and dust, which can cause airway inflammation and irritation, but they alone cannot account for such a severe and persistent case of asthma."
+  },
+  {
+    "PROMPT": 12,
+    "chosen_letter": "E",
+    "explanation": "The statement that the bronchi are thickened by the combination of edema and a reduction in the amount of smooth muscle and in the size of mucous glands is incorrect. In asthma, these changes typically occur before acute phase inflammation and do not indicate a greater risk of airway remodeling or mild to moderate diffuse bronchial wall thickening."
+  },
+  {
+    "PROMPT": 13,
+    "chosen_letter": "a",
+    "explanation": "The patient's diagnosis of 'severe asthma' (diagnosis: D) and the presence of a severe asthma response (indicated by high sputum eosinophilia, 1000/mm3) suggest he is eligible for biologics treatment. The absence of other allergies to common environmental triggers (as reported in his history, A B C D or E), the presence of severe asthma that is difficult to control (indicated by high sputum eosinophilia and no response to standard therapies), and the lack of use of high-dose inhaled corticosteroids at the time of consultation are further supports for his eligibility. Therefore, option 'a' - Yes, because he has a diagnosis of severe asthma - is the most accurate answer."
+  },
+  {
+    "PROMPT": 14,
+    "chosen_letter": "a",
+    "explanation": "The correct sequence of the association between predictors and biologics is: (1); (3); (2); (1)."
+  },
+  {
+    "PROMPT": 15,
+    "chosen_letter": "B",
+    "explanation": "Statement II is incorrect because it states that empirical antibiotic use is considered the gold standard for preventing progression to pneumonia in acute bronchitis without persistent fever and systemic manifestations, which contradicts statements I (procalcitonin can help reduce unnecessary antibiotic use) and III (respiratory viral infections can trigger exacerbation of previous chronic diseases)."
+  },
+  {
+    "PROMPT": 16,
+    "chosen_letter": "C",
+    "explanation": "While environmental control and allergen avoidance can significantly help manage childhood asthma by reducing exposure to triggers that cause symptoms, they do not directly affect the frequency or severity of symptoms in children with suspected asthma. Therefore, option C is incorrect."
+  },
+  {
+    "PROMPT": 17,
+    "chosen_letter": "a",
+    "explanation": "Statement 1 is accurate because spirometry measures lung function to diagnose asthma by assessing the airflow obstruction in children with or without asthma. Statement 2 is also accurate as it emphasizes that both spirometry before and after bronchodilator use should be routinely performed for children with suspected asthma, to evaluate the response to treatment and rule out other conditions like COPD or other lung diseases. Statement 3 provides a good overview of allergy evaluation in asthma diagnosis, which includes total IgE measurement, immediate-reading skin tests, or serum specific IgE. Finally, statement 4 lists the common characteristics and manifestations of mild, moderate, and severe attacks in asthmatic children, including exacerbation frequency (intermittent or persistent) and intermittency (between attack periods). All these statements are correct, making option 'a' the correct choice."
+  },
+  {
+    "PROMPT": 18,
+    "chosen_letter": "B",
+    "explanation": "The Global Strategy for Asthma Management and Prevention (GINA) recommends the use of biologics in severe asthma, including Secukinumab. This is indicated by option B."
+  },
+  {
+    "PROMPT": 19,
+    "chosen_letter": "C",
+    "explanation": "According to the latest version of the Global Strategy for Asthma Management and Prevention (GINA, 2023), option C presents the most appropriate therapeutic approach. This combination uses Formoterol/Budesonide every 12 hours with Tiotropium once daily to help manage asthma symptoms and prevent exacerbations. Salbutamol is used as needed for managing short-acting beta-agonists (SABA), which are typically used less frequently in this case due to the patient's chronic asthma. The Formoterol/Budesonide regimen helps reduce inflammation and remodeling, while Tiotropium provides long-term control of symptoms and prevents future exacerbations. This combination is based on sound scientific evidence and aligns with current recommendations for managing asthma."
+  },
+  {
+    "PROMPT": 20,
+    "chosen_letter": "A",
+    "explanation": "The preferred treatment for asthma control and rescue, as per the Global Initiative for Asthma (GINA – 2021), is a combination of high dose inhaled corticosteroid plus long-acting β2-agonist. This approach helps manage the disease effectively and provides relief when needed, preventing future risks."
+  },
+  {
+    "PROMPT": 21,
+    "chosen_letter": "A",
+    "explanation": "Eosinophilia is a characteristic feature of severe asthma and is not typically associated with biologics. This response is specific to Anti-IL5/Anti-IL5R medications, as mentioned in the options."
+  },
+  {
+    "PROMPT": 22,
+    "chosen_letter": "A",
+    "explanation": "The heterogeneous and complex nature of severe asthma does indeed indicate a wide range of phenotypes. The question asks for the most common phenotype among these, which is typically chosen to be A (The eosinophilic phenotype is the most common). However, it's important to note that other phenotypes like T2-low and paucigranulocytic can also be present in severe asthma cases."
+  },
+  {
+    "PROMPT": 23,
+    "chosen_letter": "A",
+    "explanation": "Smoking is indeed a well-defined risk factor for some types of occupational asthma, as it can directly irritate the airways and trigger asthma symptoms. However, other factors such as dust particles (sawdust in this case) and chemical fumes (found in certain sensitizers like ammonia or benzene) are also considered risk factors for occupational asthma. Therefore, statement A is incorrect."
+  },
+  {
+    "PROMPT": 24,
+    "chosen_letter": "E",
+    "explanation": "The statement E in GINA 2023 aligns with the recommended therapeutic pathway for asthmatic adults and adolescents, which includes the use of LAMA (long-acting anticholinergics) in step 5. This is contradicted by statements A, B, C, and D, where specific medications are preferred or required as part of their differential diagnoses."
+  },
+  {
+    "PROMPT": 25,
+    "chosen_letter": "c",
+    "explanation": "This option presents a favorable response to inhaled corticosteroid therapy in combination with LABA+LAMA. Eosinophils are a marker of asthma severity and can be reduced by the use of these medications, which often accompany bronchodilators (LABAs) in COPD treatment."
+  },
+  {
+    "PROMPT": 26,
+    "chosen_letter": "E",
+    "explanation": "The incorrect option regarding the symptoms that increase the probability of diagnosing asthma in adults is 'e) Presence of wheezing, dyspnea, cough, fatigue on exertion and chest tightness'. While these are common symptoms associated with asthma, they can also be seen in other respiratory conditions. The primary diagnostic criteria for asthma include chronic expectoration (a), chronic obstructive pulmonary disease (COPD) exacerbations, and airway inflammation (not specified in the question). Therefore, option E is incorrect."
+  },
+  {
+    "PROMPT": 27,
+    "chosen_letter": "C",
+    "explanation": "The patient has asthma, is allergic to rhinitis, has been managing the condition for five years, requires frequent hospitalizations due to asthma attacks, and her medications are well-maintained. She has normal blood counts and IgE levels. The absence of antigen exposure and negative gastroesophageal reflux disease (GERD) and sleep apnea tests rule out these conditions as potential triggers for the patient's symptoms. Given all this information, the most appropriate management plan would be to discontinue tiotropium, a corticosteroid-sparing agent that could potentially mask asthma symptoms or cause long-term complications if taken in high doses. Additionally, starting dupilumab (a new anti-inflammatory medication) can help manage eosinophilic inflammation associated with allergic rhinitis and asthma."
+  },
+  {
+    "PROMPT": 28,
+    "chosen_letter": "",
+    "explanation": "answer: T; explanation: Salmeterol is a short-acting beta 2-agonist bronchodilator. Glycopyrronium bromide is a short-acting antimuscarinic bronchodilator. Umeclidinium is a long-acting beta 2-agonist bronchodilator.; result: T"
+  },
+  {
+    "PROMPT": 29,
+    "chosen_letter": "A",
+    "explanation": "All the statements provided concern asthma treatment, with specific measures recommended for each stage of management. Statements I (for spirometric diagnosis) and II (environmental control measures) focus on prevention and improvement of asthma symptoms through lifestyle modifications. Statement III emphasizes a thorough review process before upping the ante in asthma treatment, ensuring all aspects are addressed. Lastly, statement IV stresses stress reduction, non-steroidal anti-inflammatory drugs (NSAIDs) control, and managing environmental triggers as crucial steps for effective asthma management."
+  },
+  {
+    "PROMPT": 30,
+    "chosen_letter": "C",
+    "explanation": "All three statements (I, II, and III) correctly describe biologics used in severe asthma treatment."
+  }
+]

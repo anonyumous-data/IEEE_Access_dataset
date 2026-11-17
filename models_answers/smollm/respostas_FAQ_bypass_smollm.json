@@ -1,0 +1,158 @@
+[
+  {
+    "chosen_letter": "C",
+    "explanation": "",
+    "PROMPT": 1
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "GINA 2025 again recommended the isolated use of SABA for patients with mild asthma, without the need for inhaled corticosteroids.",
+    "PROMPT": 2
+  },
+    {
+    "chosen_letter": "E",
+    "explanation": "When an individual becomes sensitized to an occupational agent, even low levels of exposure (within legally permitted limits) can trigger severe bronchospasm. This is because the chosen_letter in this case would be E, and heres an explanation for it: 1. A) The intensity of exposure is not an important risk factor for the development of Occupational Asthma (OA). This statement does not align with the scientific consensus on OA as a result of occupational exposure, as the level of exposure to certain chemicals or agents can significantly impact the likelihood of developing OA. 2. B) Smoking is considered a protective factor against OA development. However, this claim contradicts evidence from various studies that smoking increases the risk of developing OA, particularly in occupational settings where smokers are exposed to more hazardous substances. 3. C) Exhaled Nitric Oxide (FeNO) has a well-established role in the diagnosis of Occupational Asthma (OA). This statement is partially accurate but does not fully capture the complexity of diagnosing OA. FeNO tests can aid in identifying some cases, but they do not definitively diagnose OA; other diagnostic methods, such as medical history, physical examination, and chest X-rays or lung function tests, are also required for a proper diagnosis. 4. D) The benefit of reducing the level of exposure is equivalent to complete removal from exposure to the causative agent. This statement does not accurately represent the complexities of occupational asthma management. Reducing exposure levels can help minimize symptoms but may not entirely eliminate them in some cases. Complete elimination might be possible with a complete removal from exposure, but this is an unrealistic expectation given various workplace constraints and legal considerations. 5. E) When an individual becomes sensitized to an occupational agent, even low levels of exposure (within legally permitted limits) can trigger severe bronchospasm. This statement accurately reflects the relationship between occupational exposures and the development or exacerbation of Occupational Asthma (OA). Sensitization to certain agents increases the risk for developing OA upon subsequent exposure at lower doses, leading to more severe symptoms in some cases.",
+    "PROMPT": 3
+  },
+    {
+    " letter": "D",
+    "explanation": "Asthma is a noncommunicable respiratory disease that affects about 350 million people worldwide and is characterized by inflammation of the airways leading to symptoms like coughing, wheezing, shortness of breath, and chest tightness. Asthma can be classified into two main phenotypes based on biomarkers for Th2 immune activation: T2-high asthma and T2-low asthma. T2-high asthma includes those with elevated serum IgE levels (≥100 IU/mL), blood eosinophil count ≥300/μL, and bronchial responsiveness to methacholine or histamine that is not fully reversed by salbutamol or theophylline. This type of asthma often has an atopic predisposition and usually begins in childhood or early adulthood with a high degree of airway hyperresponsiveness, which may be associated with symptoms like coughing, wheezing, shortness of breath, and chest tightness. T2-low asthma on the other hand includes those without elevated serum IgE levels (≥100 IU/mL), blood eosinophil count ≥300/μL, or bronchial responsiveness to methacholine or histamine that is not fully reversed by salbutamol or theophylline. This type of asthma typically develops in adulthood and may be associated with obesity, cigarette smoke exposure, lower bronchodilator reversibility, and has a less severe clinical course compared to T2-high asthma. Therefore, it is incorrect to state that asthma with a Th2-high phenotype was first based on atopic predisposition in combination with any of the biomarkers for Th2 immune activation (serum immunoglobulin E (IgE) ≥100 IU/mL, blood eosinophil count ≥300/μL), as T2-low asthma does not have elevated serum IgE levels or blood eosinophil count, and its symptom onset is usually in adulthood. The correct answer would be D: T2-low asthma is characterized by activation of non-T2 inflammatory pathways, with symptom onset in adulthood, and is often associated with obesity, cigarette smoke exposure, lower bronchodilator reversibility.",
+    "PROMPT": 4
+  },
+  {
+    "chosen_letter": "A",
+    "explanation": "A significant proportion of asthma heritability is related to atopy, which is a genetic tendency to produce specific IgA in response to allergens. Asthma is one of the most common chronic diseases associated with morbidity and mortality. Regarding asthma, select the correct statement.",
+    "PROMPT": 5
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "In this situation, the appropriate medical intervention would be to prescribe formoterol and budesonide as long-term control medication for the patient, while also recommending she continue salbutamol spray as a rescue inhaler. A referral to the emergency room should not be made if there are no severe symptoms but rather an appointment for spirometry should be scheduled.",
+    "PROMPT": 6
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The patients asthma is controlled, as it does not interfere with his daily activities.",
+    "PROMPT": 7
+  },
+  {
+    "chosen_letter": "D",
+    "explanation": "In adult patients with asthma initiated or worsened during work, the diagnosis of work-related asthma should be considered.",
+    "PROMPT": 8
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The reversibility test with bronchodilators is used to identify irreversible airway obstruction.",
+    "PROMPT": 9
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "The diagnosis of severe asthma was considered correct in this patient due to his symptomatic presentation and history. In conclusion, the answer is C because: 1. The patient reports severe symptoms such as cough, dyspnea on exertion, rhinorrhea, and diffuse wheezing. 2. He has a complex medical history with comorbidities like chronic rhinitis and sinusitis. 3. He is exposed to potential allergens in his environment (mold and dust).  4. There are no contradictory factors in this patients report that would contradict the diagnosis of severe asthma.",
+    "PROMPT": 10
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The main differential diagnosis of asthma in this patient is Bronchiectasis. The main differential diagnosis of asthma in this patient is Bronchiectasis. Denies asthma in childhood.: false,     Diagnosis of chronic rhinitis and sinusitis, using nasal budesonide 32 mcg, 1 spray in each nostril as needed: true,     Allergens: Reports allergy to mold and dust. SH: Former smoker for 10 years, 20 pack-years.: false,     Caregiver. FH: Mother with asthma, in addition to sister, 2 paternal uncles, grandmother and cousins.: true   },   FH: {     Mother with asthma : true",
+    "PROMPT": 11
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The correct sequence is (F); (T); (T); (F). 1. (F) Indicates that the statement Indicates an acute phase of inflammation is false, as diffuse bronchial wall thickening in asthma does not necessarily represent an acute phase of inflammation. 2. (F) The statement May indicate a greater risk of airway remodeling is also false because diffuse bronchial wall thickening is often present in both mild and advanced forms of the disease. 3. (T) Indicates that the statement Is usually present in more advanced phases of the disease is true, as it can be detected during an asthma exacerbation or in cases where there are severe symptoms. 4. (F) The statement The bronchi are thickened by the combination of edema and a reduction in the amount of smooth muscle and in the size of mucous glands is false because, according to your question, it suggests that the bronchi are thickened primarily due to an increase in smooth muscle and reduction in mucous glands during the acute phase of asthma. The statement indicates a more advanced phase of the disease where edema dominates.",
+    "PROMPT": 12
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "Based on his diagnosis of severe asthma, he is eligible to receive biologics.",
+    "PROMPT": 13
+  },
+  {
+"chosen_letter": "A",
+"explanation": "The correct sequence is (2); (1); (3); (1).",
+"PROMPT": 14
+},
+{
+"chosen_letter": "D",
+"explanation": "The alternative that presents only the correct statements is (D) II.",
+"PROMPT": 15
+},
+  {
+    "chosen_letter": "A",
+    "explanation": "Regular use of inhaled corticosteroids (ICSs) in children with moderate to severe persistent asthma reduces airway inflammation and prevents exacerbations.",
+    "Question": "In analyzing the pathophysiology, risk factors, and management of childhood asthma, which statement is true?",
+    "PROMPT": 16
+  },
+  {
+"chosen_letter": "E",
+"explanation": "All four statements correctly describe key aspects of asthma diagnosis in children. Choices: [{choice:a,description:Statements 1, 2 and 3 are correct. However, the first statement alone does not make this choice valid.},{choice:b,description:Statements 1, 3 and 4 are correct. However, the second statement is incorrect as it only supports the diagnosis of moderate or severe attacks (exacerbations) rather than all forms of asthma.},{choice:c,description:Statements 2, 3 and 4 are correct. However, the first statement alone does not make this choice valid.},{choice:d,description:Statements 1, 2 and 4 are correct. However, only statements 2 supports the diagnosis of all forms of asthma (mild, moderate and severe), while other parts of the statement refer to bronchiolitis rather than asthma.]",
+"PROMPT": 17
+},
+  {
+    "chosen_letter": "B",
+    "explanation": "Omalizumab, a humanized monoclonal antibody, is recommended by GINA for the treatment of severe eosinophilic asthma.",
+    "34": "The Global Strategy for Asthma Management and Prevention (GINA) recommends the use of biologics in severe asthma. Recently, some of these biologics have been incorporated into the SUS (Unified Health System). Select the option that indicates the biologic recommended by GINA for severe eosinophilic asthma.",
+    "PROMPT": 18
+  },
+  {
+    "chosen_letter": "C",
+    "explanation": "According to the latest version of the Global Strategy for Asthma Management and Prevention (GINA, 2023), option C presents the most appropriate therapeutic approach by combining salbutamol with long-acting beta agonist (LABA) formoterol/budesonide every 12 hours. This combination provides optimal symptom control while minimizing potential risks associated with high doses of LABA or high levels of inhaled corticosteroids.",
+    "PROMPT": 19
+  },
+  {
+  "chosen_letter": "E",
+  "explanation": "The answer is: E According to the Global Initiative for Asthma (GINA – 2021), asthma control can be divided into five steps, varying according to patient age.",
+  "PROMPT": 20
+},
+  {
+    "chosen_letter": "B",
+    "explanation": "Anti-IL5/Anti-IL5R medications are used for moderate to severe asthma and have a strong predictive role for response. Nasal polyposis is one of the key predictors for successful treatment with these agents.",
+    "Question": "Which of the following best describes why Anti-IL5/Anti-IL5R medications predict good responses in patients with severe refractory asthma? (A) Eosinophilia, (B) Nasal polyposis, (C) Onset of asthma in adult life, (D) Higher number of exacerbations in the last year, (E) Ratio of forced expiratory volume in the first second / forced vital capacity < 50%",
+    "PROMPT": 21
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "IL-2-like receptor signaling can be associated with T2-low endotype. The T2-low endotype is characterized by low levels of TGF-β, IL-10 and other growth factors that promote the differentiation of Th2 cells to effector cells.",
+    "question": "Which phenotype is most commonly seen in severe asthma?",
+    "PROMPT": 22
+  },
+    {
+  "chosen_letter": "E",
+  "explanation": "This statement is correct because it correctly describes the difference between type 1 and type 2 occupational asthma. Type 1 asthma is caused by specific allergens, while type 2 asthma is often more related to eosinophils.   A) Smoking is a well-defined risk factor for some types of occupational asthma. This statement is true as smoking can trigger or exacerbate certain forms of work-related asthma such as smoke-induced asthma.  B) Serial measurement of peak expiratory flow on spirometry is poorly specific for its diagnosis. While this may be the case with many medical conditions, its not specifically relevant to occupational asthma in general.  C) The specific bronchial provocation test is considered the gold standard for the diagnosis of occupational asthma. This statement refers to methacholine challenge or baking soda challenge tests which are commonly used but not necessarily THE gold standard.  D) Serial spirometric measurements of peak expiratory flow have high sensitivity for the diagnosis of occupational asthma. Sensitivity and specificity can vary greatly depending on factors like test selection, equipment, training, etc., so this statement is inaccurate without more context or data.",
+  "PROMPT": 23
+},
+  {
+  "chosen_letter": "A",
+  "explanation": "Option A is incorrect because it states that among differential diagnoses for asthma aged 40 and older, Pulmonary Throboembolism should be considered",
+  "PROMPT": 24
+},
+
+  {
+    "chosen_letter": "B",
+    "explanation": "The criteria that presents a favorable response to inhaled corticosteroid (ICS) therapy is when an individual has <100 eosinophils/L and experiences at least one moderate or severe asthma attack in the previous year.",
+    "43) answer": "B",
+    "PROMPT": 25
+  },
+  {
+    "chosen_letter": "a",
+    "explanation": "Chronic expectoration is not a criterion for diagnosing asthma.",
+    "PROMPT": 26
+  },
+  {
+    "chosen_letter": "B",
+    "explanation": "The most appropriate treatment for the patient with asthma who has shown improvement but still experiences occasional exacerbations is to maintain current medications, specifically adding benralizumab. This choice is supported by their history of needing only one course of systemic corticosteroids in five years and a normal blood count and IgE level.",
+    "PROMPT": 27
+  },
+    {
+    "chosen_letter": "B",
+    "explanation": "1. Salmeterol is a short-acting beta 2-agonist bronchodilator. (True) 2. Glycopyrronium bromide is a short-acting antimuscarinic bronchodilator. (False, but in this context false since we are looking for correct sequence, so lets keep it as is) 3. Umeclidinium is a long-acting beta 2-agonist bronchodilator. (True) 4. Indacaterol is a long-acting antimuscarinic bronchodilator. (False, but in this context false since we are looking for correct sequence, so lets keep it as is)",
+    "PROMPT": 28
+  },
+    {
+    "chosen_letter": "E",
+    "explanation": "E is the correct answer because it contains all three of the correct statements about asthma.",
+    "PROMPT": 29
+  },
+    {
+    "chosen_letter": "C",
+    "explanation": "The correct answers are I (Omalizumab), II (Mepolizumab), and III (Tezepelumab). These statements all describe biologics used in severe asthma.",
+    "PROMPT": 30
+  }
+]
